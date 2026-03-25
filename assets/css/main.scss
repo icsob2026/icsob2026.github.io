@@ -1,0 +1,62 @@
+---
+---
+
+/* Custom styles for ICSOB 2026 */
+.main-image {
+  position: relative;
+  background: url(/assets/images/gothenburg-hero.jpg) no-repeat center;
+  background-size: cover;
+  height: 500px;
+  overflow: hidden;
+  /* Break out of Bootstrap container to full viewport width */
+  width: 100vw;
+  left: 50%;
+  margin-left: -50vw;
+  margin-right: -50vw;
+  margin-bottom: 1.5rem;
+}
+
+.containerimg {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  color: #fff;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+.containerimg h1 {
+  margin: 0;
+  font-size: 40px;
+}
+
+.cen {
+  margin: 20px;
+  display: block;
+  font-size: 26px;
+  color: white;
+}
+
+.cen2 {
+  margin: 10px;
+  display: block;
+  font-size: 22px;
+  color: white;
+}
+
+.image {
+  display: inline-block;
+}
+
+p {
+  font-size: 1.2rem;
+}
+
+.navbar .nav-link,
+.navbar .navbar-brand,
+.navbar .dropdown-item {
+  font-size: 1.05rem;
+  font-weight: 600;
+}

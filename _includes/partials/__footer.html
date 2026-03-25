@@ -1,0 +1,72 @@
+</main>
+
+<style>
+  .footer {
+    background-color: #000;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+    font-size: 14px;
+  }
+
+  .footer a {
+    color: #fff;
+    text-decoration: none;
+    margin: 0 10px;
+  }
+
+  .footer a:hover {
+    text-decoration: underline;
+  }
+</style>
+<footer class="footer mt-4">
+  <div class="container">
+    <div class="row justify-content-center pt-3">
+      <div class="col-md-3 mb-3">
+        <h5>Organizer</h5>
+        <a href="https://www.bth.se/" target="_blank">
+          <img src="/assets/images/uu logo.png" alt="Blekinge Institute of Technology"
+            style="width: 60%; filter: brightness(0) invert(1);">
+        </a>
+      </div>
+      <div class="col-md-5 mb-3">
+        <h5>Sponsors</h5>
+        <a href="https://www.nwo.nl/en#/" target="_blank">
+          <img src="/assets/images/NWO.png" alt="NWO" style="width: 12%; margin: 5px; filter: brightness(0) invert(1);">
+        </a>
+        <a href="https://www.afas.nl/#/" target="_blank">
+          <img src="/assets/images/afas.png" alt="AFAS"
+            style="width: 35%; margin: 5px; filter: brightness(0) invert(1);">
+        </a>
+        <a href="https://ispma.org" target="_blank">
+          <img src="/assets/images/ISPMA.PNG" alt="ISPMA"
+            style="width: 20%; margin: 5px; filter: brightness(0) invert(1);">
+        </a>
+        <a href="https://www.versen.nl" target="_blank">
+          <img src="/assets/images/versen.png" alt="Versen"
+            style="width: 20%; margin: 5px; filter: brightness(0) invert(1);">
+        </a>
+      </div>
+      <div class="col-md-3 mb-3">
+        <h5>Contact</h5>
+        <p>icsob2026@easychair.org</p>
+      </div>
+    </div>
+    <hr style="border-color: #555;">
+    <p>The 17th International Conference on Software Business (ICSOB 2026)</p>
+  </div>
+</footer>
+
+{%- include partials/modal_link.html -%}
+
+{%- if site.conference.live.streaming.enable -%}
+{%- include partials/modal_live.html -%}
+{%- endif -%}
+
+<script type="module" src="{{ site.baseurl }}/assets/js/conference.bundle.js?t={{ site.time | date: '%s' }}"
+  data-baseurl="{{ site.baseurl }}"></script>
+<script type="module" src="{{ site.baseurl }}/assets/js/main.js?t={{ site.time | date: '%s' }}"></script>
+
+</body>
+
+</html>
