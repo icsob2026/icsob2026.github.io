@@ -14,12 +14,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: ICSOB 2026
-email: your-email@example.com
+email: icsob2026@gmail.com
 description: The International Conference on Software Business (ICSOB) attracts both researchers and practitioners who are concerned with software-intensive business in different ways, and brings them together to share their findings and experiences from the field of software-intensive business.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://icsob2026.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username: jekyll
+twitter_username: ICSOBconf
+github_username: icsob2026
 
 # Build settings
 markdown: kramdown
