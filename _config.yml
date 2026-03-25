@@ -1,0 +1,185 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+title: ICSOB 2026
+email: your-email@example.com
+description: The International Conference on Software Business (ICSOB) attracts both researchers and practitioners who are concerned with software-intensive business in different ways, and brings them together to share their findings and experiences from the field of software-intensive business.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://icsob2026.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: jekyllrb
+github_username: jekyll
+
+# Build settings
+markdown: kramdown
+#theme: minima
+remote_theme: "DigitaleGesellschaft/jekyll-theme-conference@v4.0.1"
+plugins:
+  - jekyll-feed
+  - jekyll-remote-theme
+  - jekyll-include-cache
+  - jekyll-seo-tag
+  - jekyll-target-blank
+
+target-blank:
+  css_class: ext-link
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
+#comment
+
+sass:
+  style: compressed
+
+# Additional exclude from processing
+exclude:
+  - .github/
+  - README.md
+  - LICENSE.md
+  - REDISTRIBUTED.md
+  - purgecss.config.js
+
+# Collections and their defaults
+collections:
+  talks:
+    output: true
+    permalink: /:collection/:title/
+  speakers:
+    output: true
+    permalink: /:collection/:title/
+  rooms:
+    output: true
+    permalink: /:collection/:title/
+
+defaults:
+  - scope:
+      path: ""
+      type: talks
+    values:
+      layout: talk
+  - scope:
+      path: ""
+      type: speakers
+    values:
+      layout: speaker
+  - scope:
+      path: ""
+      type: rooms
+    values:
+      layout: room
+
+conference:
+  # Language
+  lang: en
+
+  # Color scheme: 'light', 'dark', or 'auto' (follows system preference)
+  color_scheme: light
+
+  # Show theme errors:
+  show_errors: True
+
+  # Navigation bar
+  navigation:
+    links:
+      - name: Home
+        relative_url: /
+      - name: Call for Submissions
+        menu:
+          - name: Research Papers
+            relative_url: /ResearchPapers/
+          - name: PhD Retreat
+            relative_url: /PhDRetreatSubmissions/
+          - name: Posters and Demos
+            relative_url: /Posters/
+#          - name: Special Issue
+#            relative_url: /specialissue/
+#          - name: Awards
+#            relative_url: /Awards/
+#          - name: Student Volunteers
+#            relative_url: /studentvolunteers/
+#      - name: Program
+#        menu:
+#          - name: Program Overview
+#            relative_url: /program/
+#          - name: Detailed Schedule
+#            relative_url: /Schedule/
+#          - name: Keynotes
+#            relative_url: /speakers/
+#          - name: Workshop
+#            relative_url: /workshop/
+      - name: Important Dates
+        relative_url: /importantdates/
+#      - name: Sponsors
+#        relative_url: /sponsor/
+#      - name: Organisation
+#        menu:
+#          - name: Organising Committee
+#            relative_url: /organisation/
+#          - name: Program Committee
+#            relative_url: /programCommittee/
+#      - name: Attending
+#        menu:
+#          - name: Registration
+#            relative_url: /registration/
+#          - name: Location
+#            relative_url: /location/
+
+
+  # Information boxes
+#  info:
+#    bars:
+#      - title: Welcome to ICSOB 2026!
+#        color: primary
+#        main_only: true
+#        dismissal_days: 7
+#        text: |
+#          Welcome to the International Conference on Software Business (ICSOB) 2026 website. Stay tuned for updates!
+
+  # Timezone for the conference (UTC offset)
+  tz: "+01:00"
+
+  # Live indications
+  live:
+    stop: 240 # in minutes
+    streaming:
+      enable: true
+      pause: 60 # in minutes
+      prepend: 5 # in minutes
+      extend: 5 # in minutes
+
+  talks:
+    # Talk tracks
+    tracks:
+      - name: Keynote
+        color: warning
+      - name: Long Paper
+        color: info
+      - name: Short Paper
+        color: success
+      - name: Tutorial
+        color: danger
+      - name: Posters
+        color: primary
+      - name: Others
+        color: secondary
+
