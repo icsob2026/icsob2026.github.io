@@ -50,6 +50,6 @@ layout: generic-page
 
 <hr>
 
-<h2>Submission Guideliness</h2>
+<h2>Submission Guidelines</h2>
 
 {% include submission-guidelines/_poster-demo.html %}

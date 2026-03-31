@@ -142,12 +142,12 @@ conference:
 #            relative_url: /organisation/
 #          - name: Program Committee
 #            relative_url: /programCommittee/
-#      - name: Attending
-#        menu:
-#          - name: Registration
-#            relative_url: /registration/
-#          - name: Location
-#            relative_url: /location/
+      - name: Attending
+        menu:
+          - name: Registration
+            relative_url: /registration/
+          - name: Location
+            relative_url: /location/
 
 
   # Information boxes

@@ -3,7 +3,7 @@ Email: icsob2026@gmail.com
 
 # ICSOB 2026 Conference Website
 
-This is the official website for the **17th International Conference on Software Business (ICSOB 2026)**, to be held in **Gothenburg, Sweden, in November 2026**.
+This is the official website for the **17th International Conference on Software Business (ICSOB 2026)**, to be held in **Gothenburg, Sweden, October 26–28, 2026**.
 
 ICSOB attracts both researchers and practitioners concerned with software-intensive business. The conference brings together participants to share findings and experiences from the field of software-intensive business, covering topics such as software product management, software ecosystems, open source software, agile and lean methods, AI-driven software development, and digital transformation.
 
