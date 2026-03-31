@@ -136,6 +136,12 @@ main.container img {
   }
 }
 
+// Scrollable wrapper for wide tables
+.table-responsive-wrapper {
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+}
+
 //   Column Width
 .table {
   // First row defines width for all columns

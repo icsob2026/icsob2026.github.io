@@ -8,12 +8,15 @@
   background-size: cover;
   height: 500px;
   overflow: hidden;
-  /* Break out of Bootstrap container to full viewport width */
+  /* Full-bleed out of Bootstrap container using transform (no layout overflow) */
   width: 100vw;
   left: 50%;
-  margin-left: -50vw;
-  margin-right: -50vw;
+  transform: translateX(-50%);
   margin-bottom: 1.5rem;
+}
+
+body {
+  overflow-x: hidden;
 }
 
 .containerimg {
