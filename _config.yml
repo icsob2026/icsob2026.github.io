@@ -136,12 +136,12 @@ conference:
         relative_url: /importantdates/
       - name: Sponsors
         relative_url: /sponsor/
-#      - name: Organisation
-#        menu:
-#          - name: Organising Committee
-#            relative_url: /organisation/
+      - name: Organization
+        menu:
+          - name: Organizing Committee
+            relative_url: /organizing-committee/
 #          - name: Program Committee
-#            relative_url: /programCommittee/
+#            relative_url: /program-committee/
       - name: Attending
         menu:
           - name: Registration
