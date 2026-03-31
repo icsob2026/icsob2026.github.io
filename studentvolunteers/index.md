@@ -16,7 +16,7 @@ layout: importantdates
 
 <p>We seek enthusiastic students with strong interpersonal, technical, and English communication skills who are ethical, reliable, punctual, organized, and proactive.</p>
 
-<p>Volunteers must arrive at the conference venue by the first conference day in November 2026.</p>
+<p>Volunteers must arrive at the conference venue by the first conference day on October 26, 2026.</p>
 
 <hr>
 
@@ -48,7 +48,7 @@ layout: importantdates
   <li>Assisting with registration, information, and materials pickup</li>
   <li>Providing help to attendees with special needs</li>
   <li>Supporting the overall smooth running of conference sessions and social events</li>
-  <li>Being available for the conference dates in November 2026</li>
+  <li>Being available for the conference dates in October 26–28, 2026</li>
 </ul>
 
 <hr>

@@ -1,6 +1,7 @@
 ---
 layout: location
 title: Location
+description: "ICSOB 2026 will be held in Gothenburg, Sweden, October 26–28."
 map:
   default_zoom: 13
   home_coord: 57.7089, 11.9746
@@ -11,11 +12,9 @@ postal_address:
   country: "SE"
 ---
 
-
 <div class="col-lg8 mx-auto">
-    <h1 class="display-4" style="text-align: left;">
-        Location
-    </h1>
-    <p>ICSOB 2026 will be held in <b>Gothenburg, Sweden</b> in November 2026. Further details about the exact venue will be announced as they become available.</p>
+    <h1 id="Location" class="mb-4 text-center">Conference Location</h1>
+
+    <p>ICSOB 2026 will be held in <b>Gothenburg, Sweden</b>, October 26–28, 2026. Further details about the exact venue will be announced as they become available.</p>
     <p>Gothenburg (Göteborg) is Sweden's second-largest city, located on the west coast. It is easily accessible via Gothenburg Landvetter Airport (GOT), with regular flight connections from major European cities.</p>
 </div>

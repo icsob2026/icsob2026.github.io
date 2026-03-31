@@ -129,5 +129,5 @@ description: "Submit to ICSOB 2026. Topics include AI-native software business, 
 
 <hr>
 
-<h2>Submission Guideliness</h2>
+<h2>Submission Guidelines</h2>
 {% include submission-guidelines/_research-papers.html %}

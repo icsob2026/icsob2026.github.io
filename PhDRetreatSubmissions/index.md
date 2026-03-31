@@ -46,7 +46,7 @@ description: "PhD Retreat at ICSOB 2026 — a dedicated forum for doctoral stude
 
 <hr>
 
-<h2>Submission Guideliness</h2>
+<h2>Submission Guidelines</h2>
 
 {% include submission-guidelines/_phd-retreat.html %}
 

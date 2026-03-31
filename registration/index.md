@@ -1,11 +1,12 @@
 ---
-layout: importantdates
+layout: generic-page
+title: Registration
+description: "Register for ICSOB 2026 in Gothenburg, Sweden. Information about registration fees, deadlines, and the online registration system will be announced soon."
 ---
 
 <div class="col-lg8 mx-auto">
-    <h1 class="display-4" style="text-align: left;">
-        Registration
-    </h1>
+    <h1 id="Registration" class="mb-4 text-center">Registration</h1>
+
     <p>Registration for ICSOB 2026 is not yet open. Details about registration fees, deadlines, and the online registration system will be announced as they become available. Please check back later.</p>
 
     <p><b>Cancellation policy</b></p>

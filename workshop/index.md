@@ -35,7 +35,7 @@ description: "Workshop programme at ICSOB 2026 — the 17th International Confer
 
 <h2>Time and Place</h2>
 
-<p>Gothenburg, Sweden, November 2026 (exact venue TBA)</p>
+<p>Gothenburg, Sweden, October 26–28, 2026 (exact venue TBA)</p>
 
 <hr>
 

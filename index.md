@@ -21,7 +21,7 @@ links:
 
 <h1 id="Welcome" class="mb-4 text-center">Welcome to ICSOB 2026!</h1>
 
-<p>We are delighted to invite you to contribute to the 17th International Conference on Software Business (ICSOB 2026), to be held in the beautiful city of Gothenburg, Sweden, in November 2026. This conference aims to foster a vibrant community of researchers and practitioners to exchange ideas and findings on the rapidly evolving field of software business.</p>
+<p>We are delighted to invite you to contribute to the 17th International Conference on Software Business (ICSOB 2026), to be held in the beautiful city of Gothenburg, Sweden, October 26–28, 2026. This conference aims to foster a vibrant community of researchers and practitioners to exchange ideas and findings on the rapidly evolving field of software business.</p>
 
 <hr>
 
@@ -37,4 +37,4 @@ links:
 
 <h2>Location</h2>
 
-<p>ICSOB 2026 will be held in Gothenburg, Sweden. More details coming soon.</p>
+<p>ICSOB 2026 will be held in Gothenburg, Sweden. <a href="/location/" target="_blank">See details</a>.</p>
