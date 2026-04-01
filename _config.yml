@@ -14,7 +14,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: ICSOB 2026
-email: icsob2026@gmail.com
+title_long: "17th International Conference on Software Business (ICSOB 2026)"
+email_name: Henry Edison
+email: henry.edison@bth.se
 description: "17th International Conference on Software Business — Gothenburg, Sweden, October 2026. Themes include AI-native software business, digital sovereignty, software ecosystems, cloud platforms, sustainability, and entrepreneurship."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://icsob2026.github.io" # the base hostname & protocol for your site, e.g. http://example.com
