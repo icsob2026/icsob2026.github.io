@@ -83,23 +83,6 @@ description: "Meet the organizing committees of ICSOB 2026, the 17th Internation
         </div>
     </div>
 
-    <h2 class="mb-4">Proceedings Chairs</h2>
-
-    <div class="row g-4 mb-5">
-        <div class="col-12 col-md-6">
-            <div class="d-flex align-items-center gap-4">
-                <img src="/assets/images/organization/damian-kedziora.jpg" alt="Damian Kedziora"
-                    class="rounded-circle flex-shrink-0" style="width: 120px; height: 120px; object-fit: cover;">
-                <div>
-                    <h5 class="mb-1">Damian Kedziora</h5>
-                    <p class="text-muted mb-1">LUT University, Finland</p>
-                    <p class="mb-1"><a href="mailto:damian.kedziora@lut.fi">damian.kedziora@lut.fi</a></p>
-                    <p class="mb-0 text-muted"><em>Main Conference Proceedings</em></p>
-                </div>
-            </div>
-        </div>
-    </div>
-
     <h2 class="mb-4">Website Chair</h2>
 
     <div class="row g-4 mb-5">
