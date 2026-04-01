@@ -1,5 +1,6 @@
 ---
-name: 1 Dec. 2022
+name: Room C
+hide: true
 ---
 
 A different way description on how to find this room

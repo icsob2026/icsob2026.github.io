@@ -6,8 +6,6 @@ layout: generic-page
 
     <h1 id="Sponsors" class="mb-4 text-center">Our Sponsors</h1>
 
-    <hr>
-
     <div style="display: flex; align-items: start;">
         <img src="/assets/images/elliit_logo.png" alt="ELLIIT" width="200" style="margin-right: 20px;">  
         <div>
