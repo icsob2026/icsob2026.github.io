@@ -96,16 +96,6 @@ description: "Meet the organizing committees of ICSOB 2026, the 17th Internation
       </div>
     </div>
   </div>
-  <div class="col-12 col-md-6">
-    <div class="d-flex align-items-center gap-4">
-      <img src="/assets/images/organization/profile.png" alt="Companion Proceedings Chair"
-        class="rounded-circle flex-shrink-0" style="width: 120px; height: 120px; object-fit: cover;">
-      <div>
-        <h5 class="mb-1">TBA</h5>
-        <p class="text-muted mb-0"><em>Companion Proceedings</em></p>
-      </div>
-    </div>
-  </div>
 </div>
 
 <h2 class="mb-4">Website Chair</h2>

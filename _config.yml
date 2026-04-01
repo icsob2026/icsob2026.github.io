@@ -148,7 +148,7 @@ conference:
             relative_url: /registration/
           - name: Location
             relative_url: /location/
-      - name: Submit (EasyChair)
+      - name: Submit
         absolute_url: https://easychair.org/my2/conference?conf=icsob2026
 
 
