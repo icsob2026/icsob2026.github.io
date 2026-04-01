@@ -4,6 +4,8 @@ title: Call for Papers
 description: "Submit to ICSOB 2026. Topics include AI-native software business, digital sovereignty, cloud platforms, ecosystems, and sustainability. Submission deadline: July 18, 2026."
 ---
 
+<div class="col-md-10 mx-auto">
+
 <h1 id="CallForResearchPapers" class="mb-4 text-center">Call for Papers</h1>
 
 <h3 class="text-center mb-3"><i>"Software Business in the Age of AI-Native Dominance and Digital Sovereignty"</i></h3>
@@ -131,3 +133,5 @@ description: "Submit to ICSOB 2026. Topics include AI-native software business, 
 
 <h2>Submission Guidelines</h2>
 {% include submission-guidelines/_research-papers.html %}
+
+</div>

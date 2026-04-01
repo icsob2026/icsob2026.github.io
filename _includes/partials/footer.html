@@ -1,48 +1,49 @@
 </main>
 
 <style>
-  .footer {
-    background-color: #000;
-    color: #fff;
-    padding: 20px;
-    text-align: center;
-    font-size: 14px;
-  }
+    .footer {
+        background-color: #7d614b;
+        color: #fff;
+        padding: 20px;
+        text-align: center;
+        font-size: 14px;
+    }
 
-  .footer a {
-    color: #fff;
-    text-decoration: none;
-    margin: 0 10px;
-  }
+    .footer a {
+        color: #fff;
+        text-decoration: none;
+        margin: 0 10px;
+    }
 
-  .footer a:hover {
-    text-decoration: underline;
-  }
+    .footer a:hover {
+        text-decoration: underline;
+    }
 </style>
 <footer class="footer mt-4">
-  <div class="container">
-    <div class="row justify-content-center pt-3">
-      <div class="col-md-3 mb-3">
-        <h5>Organizer</h5>
-        <a href="https://www.bth.se/" target="_blank">
-          <img src="/assets/images/bth_logo_white.png" alt="Blekinge Institute of Technology"
-            style="width: 40%; filter: brightness(0) invert(1);">
-        </a>
-      </div>
-      <div class="col-md-6 mb-3">
-        <h5>Sponsors</h5>
-        <a href="https://elliit.se/" target="_blank">
-          <img src="/assets/images/elliit_logo.png" alt="Blekinge Institute of Technology" style="width: 40%;">
-        </a>
-      </div>
-      <div class="col-md-3 mb-3">
-        <h5>Contact</h5>
-        <p><a href="mailto:{{ site.email }}">{{ site.email }}</a></p>
-      </div>
+    <div class="container">
+        <div class="row justify-content-center pt-3">
+            <div class="col-md-3 mb-1">
+                <h5>Organizer</h5>
+                <a href="https://www.bth.se/" target="_blank">
+                    <img src="/assets/images/bth_logo_white.png" alt="Blekinge Institute of Technology"
+                        style="width: 40%; filter: brightness(0) invert(1);">
+                </a>
+            </div>
+            <div class="col-md-6 mb-1">
+                <h5>Sponsors</h5>
+                <a href="https://elliit.se/" target="_blank">
+                    <img src="/assets/images/elliit_logo.png" alt="Blekinge Institute of Technology"
+                        style="width: 40%;">
+                </a>
+            </div>
+            <div class="col-md-3 mb-1">
+                <h5>Contact</h5>
+                <p><a href="mailto:{{ site.email }}">{{ site.email }}</a></p>
+            </div>
+        </div>
+        <hr style="border-color: #555;">
+        <p>&copy; {{ site.title_long }}</p>
     </div>
-    <hr style="border-color: #555;">
-    <p>&copy; {{ site.title_long }}</p>
-  </div>
 </footer>
 
 {%- include partials/modal_link.html -%}
@@ -52,7 +53,7 @@
 {%- endif -%}
 
 <script type="module" src="{{ site.baseurl }}/assets/js/conference.bundle.js?t={{ site.time | date: '%s' }}"
-  data-baseurl="{{ site.baseurl }}"></script>
+    data-baseurl="{{ site.baseurl }}"></script>
 <script type="module" src="{{ site.baseurl }}/assets/js/main.js?t={{ site.time | date: '%s' }}"></script>
 
 </body>

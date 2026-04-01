@@ -1,7 +1,7 @@
 days:
   - name: Tuesday
     abbr: Tue
-    date: 2024-11-08
+    date: 2026-10-26
     rooms:
       - name: Room A
         talks:
@@ -13,7 +13,7 @@ days:
             time_end: '21:00'
   - name: Wednesday
     abbr: Wed
-    date: 2024-11-09
+    date: 2026-10-27
     rooms:
       - name: Room A
         talks:
@@ -75,7 +75,7 @@ days:
             time_end: '15:45'  
   - name: Thursday
     abbr: Thu
-    date: 2024-11-10
+    date: 2026-10-28
     rooms:
       - name: Room A
         talks:
@@ -138,7 +138,7 @@ days:
             time_end: '15:30'   
   - name: Friday
     abbr: Fri
-    date: 2024-11-11
+    date: 2026-10-29
     rooms:
       - name: Room A
         talks:
