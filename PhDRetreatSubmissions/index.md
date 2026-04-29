@@ -10,7 +10,7 @@ description: "PhD Retreat at ICSOB 2026 — a dedicated forum for doctoral stude
 
     <p class="lead">The ICSOB 2026 PhD Retreat is an exciting one-day event designed to bring together PhD students who work on research related to software-intensive business. The PhD Retreat provides a friendly and constructive environment for PhD students to present their research proposal as well as intermediate results, and to discuss them with experts and other students in the same field.</p>
 
-    <p>PhD Retreat, Posters &amp; Demos Track papers will be published in the companion proceedings of the CEUR Workshop Proceedings (details TBA).</p>
+    <p>PhD Retreat, Posters &amp; Demos Track papers will be published in the companion proceedings of <a href="https://ceur-ws.org/">the CEUR Workshop Proceedings</a>.</p>
 
     <hr>
 
