@@ -36,4 +36,21 @@ links:
     <p>Please see the dedicated pages for <a href="/ResearchPapers">Research Papers</a>, <a href="/Posters">Posters and Demos</a>, <a href="/PhDRetreatSubmissions">the PhD Retreat</a>, and <a href="/importantdates">Important Dates</a> for full submission details and deadlines.</p>
 
     <p>ICSOB 2026 will be organized as an in-person conference in <a href="/location">Gothenburg, Sweden</a>.</p>
+
+    <hr class="my-4">
+
+    <h3 class="text-center mb-3">Proceedings</h3>
+    <p>Accepted papers will be published in <strong>Springer's Lecture Notes in Business Information Processing (LNBIP)</strong> series and indexed in Scopus, DBLP, and other major scientific databases. Previous ICSOB proceedings are available at <a href="https://link.springer.com/conference/icsob" target="_blank">link.springer.com/conference/icsob</a>.</p>
+
+    <div class="d-flex flex-wrap justify-content-center align-items-center gap-4 mt-3 mb-2">
+        <a href="https://www.springer.com/series/7911" target="_blank">
+            <img src="/assets/images/lnbip-logo.png" alt="Lecture Notes in Business Information Processing (LNBIP)" style="height: 70px; object-fit: contain;">
+        </a>
+        <a href="https://www.springer.com/" target="_blank">
+            <img src="/assets/images/springer-logo.png" alt="Springer" style="height: 70px; object-fit: contain;">
+        </a>
+        <a href="https://www.scopus.com/" target="_blank">
+            <img src="/assets/images/scopus-logo.svg" alt="Scopus" style="height: 50px; object-fit: contain;">
+        </a>
+    </div>
 </div>
