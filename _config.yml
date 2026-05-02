@@ -102,10 +102,11 @@ conference:
   lang: en
 
   # Link preview (Open Graph / Twitter Card)
-  link_preview:
-    img:
-      twitter: ICSOB.png
-      open_graph: ICSOB.png
+  meta:
+    link_preview:
+      img:
+        twitter: ICSOB.png
+        open_graph: ICSOB.png
 
   # Color scheme: 'light', 'dark', or 'auto' (follows system preference)
   color_scheme: light
