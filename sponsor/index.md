@@ -1,5 +1,7 @@
 ---
 layout: generic-page
+title: Sponsors
+description: "Sponsors of ICSOB 2026 — the 17th International Conference on Software Business, Gothenburg, Sweden, October 2026."
 ---
 
 <div class="col-md-10 mx-auto">

@@ -54,3 +54,31 @@ links:
         </a>
     </div>
 </div>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Event",
+  "name": "ICSOB 2026 — 17th International Conference on Software Business",
+  "startDate": "2026-10-26",
+  "endDate": "2026-10-28",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+  "eventStatus": "https://schema.org/EventScheduled",
+  "location": {
+    "@type": "Place",
+    "name": "Gothenburg, Sweden",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Gothenburg",
+      "addressCountry": "SE"
+    }
+  },
+  "url": "https://icsob2026.github.io",
+  "description": "17th International Conference on Software Business — exploring AI-native software business, digital sovereignty, software ecosystems, cloud platforms, sustainability, and entrepreneurship.",
+  "organizer": {
+    "@type": "Organization",
+    "name": "ICSOB",
+    "url": "https://icsob2026.github.io"
+  }
+}
+</script>
