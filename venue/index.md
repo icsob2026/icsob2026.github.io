@@ -1,5 +1,7 @@
 ---
 layout: venue
+title: Venue
+description: "ICSOB 2026 venue — Kungsbacka, Gothenburg, Sweden. The 17th International Conference on Software Business takes place October 26–28, 2026."
 ---
 
 <div>
