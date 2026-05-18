@@ -141,8 +141,8 @@ conference:
 #            relative_url: /Schedule/
 #          - name: Keynotes
 #            relative_url: /speakers/
-#          - name: Workshop
-#            relative_url: /workshop/
+          - name: Workshop
+            relative_url: /Workshop/
       - name: Important Dates
         relative_url: /importantdates/
       - name: Sponsors
