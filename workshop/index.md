@@ -1,48 +1,99 @@
 ---
-layout: importantdates
+layout: generic-page
 title: Workshop
-description: "Workshop programme at ICSOB 2026 — the 17th International Conference on Software Business, Gothenburg, Sweden, October 2026."
+description: "Workshop at ICSOB 2026 — Software Startups Research Agenda in the Era of AI. Submission deadline: September 7, 2026."
 ---
 
-<h1>Workshop</h1>
+<div class="col-md-10 mx-auto">
 
-<h2>2nd International Workshop on Advances in Software Intensive Startups (AiSIS)</h2>
+  <h1 id="Workshop" class="mb-4 text-center">Workshop Proposal for ICSOB 2026</h1>
 
-<p class="lead">Software startups research has been established over the past decade, and the body of knowledge accumulated enabled researchers and various startup ecosystem players to better understand and support software startups and entrepreneurs. However, the landscape of software startups is extremely dynamic, unpredictable and even chaotic.</p>
+  <h2 class="text-center mb-3"><i>"Software Startups Research Agenda in the Era of AI"</i></h2>
 
-<p>The recent substantial developments in artificial intelligence (AI) technologies such as machine learning, deep learning, natural language processing, and generative AI, as well as other technological and societal advances, such as quantum computing and sustainability goals, brought forward both new opportunities and challenges to startups with software intensive products or services which are yet to be fully explored and properly handled.</p>
+  <h2>Workshop Description</h2>
 
-<p>The AiSIS workshop will create an active forum for researchers and practitioners working on or interested in software startups to discuss and exchange ideas about the latest trends, challenges, and solutions and shape the future research agenda of software startups. The aim of the workshop is to achieve a clearer understanding of how software startups advance in the next decade. The topics listed below are only suggestive and serve to solicit more interesting related topics:</p>
+  <p class="lead">The emergence of Generative AI (GenAI) is rapidly transforming the software startup landscape, reshaping how ventures are created, developed, scaled, funded, and governed. AI-native startups are introducing new entrepreneurial logics, redefining software business models, and changing the dynamics of software startup ecosystems. At the same time, entrepreneurs increasingly rely on AI-assisted software engineering, AI-driven product experimentation, and human–AI collaboration practices that challenge existing assumptions in software startup research.</p>
 
-<ul>
-  <li>Technology advances (e.g. quantum computing, AI, etc) and their impacts on software startups</li>
-  <li>Development of novel technologies and tools to support creative and innovative work</li>
-  <li>Communication and collaboration of AI agents and startup teams effectively</li>
-  <li>Management of data, addressing issues like data privacy, security, and integrity to support the integration of AI in startup processes</li>
-  <li>Adaptation of AI-based methods, tools, and practices for new product development or business models</li>
-  <li>Industry experience in exploring and exploiting new and emerging technologies for existing and new ways of software product innovation in startups</li>
-  <li>Education and training on AI in new product development</li>
-  <li>Current trends and practices for innovative business models</li>
-  <li>Sustainable practices in new product development or business models</li>
-  <li>Inclusiveness, Diversity, and Equity aspects in startups</li>
-</ul>
+  <p>This workshop aims to bring together researchers and entrepreneurs to discuss how GenAI is impacting software startups and to collaboratively define a future research agenda for the next generation of software startup studies. The workshop will serve as a forward-looking community and agenda-building forum within the ICSOB community, focusing on emerging theories, conceptual frameworks, and empirical research opportunities related to AI-native ventures and software entrepreneurship in the age of GenAI.</p>
 
-<p>The workshop is planned for one day. It will start with two invited inspirational talks on software startups. Then the workshop organisers will present the book project to which all participants are invited to contribute. The rest of the day will be dedicated to interactive sessions in which the participants will work in small groups to brainstorm on the book chapters they can collaborate on. The workshop will be wrapped up with a plan for continuing collaboration among the participants after the workshop. A Slack workspace will be created for the participants to interact during and after the workshop and share the documents and other resources. If the project goes smoothly, the book will be ready to be presented at the next AiSIS workshop.</p>
+  <hr>
 
-<p>To maximize participation in the workshop and the book project, the workshop will be organized in a hybrid mode and open to online participation.</p>
+  <h2>Workshop Objectives</h2>
 
-<hr>
+  <p>The objectives of the workshop are to:</p>
 
-<h2>Time and Place</h2>
+  <ul>
+    <li>Explore how GenAI is transforming software startups.</li>
+    <li>Identify emerging research challenges and opportunities for software startup research.</li>
+    <li>Develop a shared research agenda for future studies on AI-native software startups.</li>
+    <li>Foster collaboration and strengthen the software startup research community.</li>
+  </ul>
 
-<p>Gothenburg, Sweden, October 26–28, 2026 (exact venue TBA)</p>
+  <hr>
 
-<hr>
+  <h2>Topics of Interest</h2>
 
-<h2>Workshop Organizers</h2>
+  <p>The workshop welcomes contributions related to, but not limited to, the following topics:</p>
 
-<p>Henry Edison, <a href="mailto:henry.edison@bth.se" target="_blank">henry.edison@bth.se</a>, Blekinge Institute of Technology, Sweden</p>
+  <ul>
+    <li>AI-native software startups</li>
+    <li>New venture creation in the age of GenAI</li>
+    <li>Business models for AI-native startups</li>
+    <li>Evolution of software startup ecosystems</li>
+    <li>Lean startup approaches in AI-intensive contexts</li>
+    <li>Product development and experimentation with GenAI</li>
+    <li>Human–AI collaboration in startup teams</li>
+    <li>AI-assisted software engineering in startups</li>
+    <li>Scaling challenges for AI-native ventures</li>
+    <li>Funding and investment trends in AI startups</li>
+    <li>Ethics, regulation, and governance in AI-driven entrepreneurship</li>
+    <li>Entrepreneurship education for AI-native ventures</li>
+    <li>Emerging theories and conceptual frameworks for software startup research</li>
+  </ul>
 
-<p>Nirnaya Tripathi, <a href="mailto:nirnaya.tripathi@oulu.fi" target="_blank">nirnaya.tripathi@oulu.fi</a>, University of Oulu, Finland</p>
+  <hr>
 
-<p>Xiaofeng Wang, <a href="mailto:xiaofeng.wang@unibz.it" target="_blank">xiaofeng.wang@unibz.it</a>, Free University of Bolzano, Italy</p>
+  <h2>Submission Format</h2>
+
+  <p>The workshop invites short submissions in the form of extended abstracts of up to four pages. Authors are encouraged to discuss how AI and GenAI are impacting their research related to software startups, and to articulate promising research questions and future research directions for the next two to three years.</p>
+
+  <hr>
+
+  <h2>Workshop Format</h2>
+
+  <p>The workshop will consist of short presentations of accepted extended abstracts followed by moderated discussions and collaborative agenda-building sessions. The emphasis of the workshop is on interaction, reflection, and synthesis rather than completed research results.</p>
+
+  <p>The workshop aims to facilitate constructive dialogue between researchers and entrepreneurs interested in the future of software startups in the era of AI.</p>
+
+  <hr>
+
+  <h2>Expected Outcomes</h2>
+
+  <p>Accepted extended abstracts will be included in the Companion Proceedings of the conference published at CEUR Workshop Proceedings (<a href="https://ceur-ws.org/" target="__blank">CEUR-WS.org</a>). In addition, the workshop organizers plan to synthesize the workshop discussions and contributions into a research agenda paper to be submitted to a journal.</p>
+
+  <p>The workshop also aims to strengthen and expand the software startup research community around emerging AI-related research challenges.</p>
+
+  <hr>
+
+  <h2>Important Dates</h2>
+
+  {% include important-dates/_workshop.html %}
+
+  <hr>
+
+  <h2>Submission Guidelines</h2>
+
+  {% include submission-guidelines/_workshop.html %}
+
+  <hr>
+
+  <h2>Workshop Organizers</h2>
+
+  <ul>
+    <li>Xiaofeng Wang (<a href="mailto:xiaofeng.wang@lut.fi">xiaofeng.wang@lut.fi</a>)</li>
+    <li>Frédéric Pattyn (<a href="mailto:frederic.pattyn@ugent.be">frederic.pattyn@ugent.be</a>)</li>
+    <li>Henry Edison (<a href="mailto:henry.edison@bth.se">henry.edison@bth.se</a>)</li>
+    <li>Andrey Saltan (<a href="mailto:andrey.saltan@lut.fi">andrey.saltan@lut.fi</a>)</li>
+  </ul>
+
+</div>
