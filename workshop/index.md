@@ -6,9 +6,7 @@ description: "Workshop at ICSOB 2026 — Software Startups Research Agenda in th
 
 <div class="col-md-10 mx-auto">
 
-  <h1 id="Workshop" class="mb-4 text-center">Workshop Proposal for ICSOB 2026</h1>
-
-  <h2 class="text-center mb-3"><i>"Software Startups Research Agenda in the Era of AI"</i></h2>
+  <h1 id="Workshop" class="mb-4 text-center">Workshop: "Software Startups Research Agenda in the Era of AI"</h1>
 
   <h2>Workshop Description</h2>
 
