@@ -142,7 +142,7 @@ conference:
 #          - name: Keynotes
 #            relative_url: /speakers/
           - name: Workshop
-            relative_url: /Workshop/
+            relative_url: /workshop/
       - name: Important Dates
         relative_url: /importantdates/
       - name: Sponsors
