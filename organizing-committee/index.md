@@ -132,7 +132,7 @@ description: "Meet the organizing committees of ICSOB 2026, the 17th Internation
         </div>
     </div>
 
-    <h2 class="mb-4">Proceedings Chair</h2>
+    <h2 class="mb-4">Proceedings Chairs</h2>
 
     <div class="row g-4 mb-5">
       <div class="col-12 col-md-6">
@@ -143,6 +143,18 @@ description: "Meet the organizing committees of ICSOB 2026, the 17th Internation
             <h5 class="mb-1">Damian Kedziora</h5>
             <p class="text-muted mb-1">LUT University, Finland</p>
             <p class="mb-1"><a href="mailto:damian.kedziora@lut.fi">damian.kedziora@lut.fi</a></p>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-12 col-md-6">
+        <div class="d-flex align-items-center gap-4">
+          <img src="/assets/images/organization/david_carrascosa_victori.jpg" alt="David Carrascosa Victo"
+            class="rounded-circle flex-shrink-0" style="width: 120px; height: 120px; object-fit: cover;">
+          <div>
+            <h5 class="mb-1">David Carrascosa Victori</h5>
+            <p class="text-muted mb-1">Utrecht University, The Netherlands</p>
+            <p class="mb-1"><a href="mailto:d.carrascosavictori@uu.nl">d.carrascosavictori@uu.nl</a></p>
           </div>
         </div>
       </div>
@@ -158,7 +170,7 @@ description: "Meet the organizing committees of ICSOB 2026, the 17th Internation
           <div>
             <h5 class="mb-1">Deekshitha M.</h5>
             <p class="text-muted mb-1">Utrecht University, The Netherlands</p>
-            <!-- <p class="mb-1"><a href="mailto:"></a></p> -->
+            <p class="mb-1"><a href="mailto:d.deekshitha@uu.nl">d.deekshitha@uu.nl</a></p>
           </div>
         </div>
       </div>
