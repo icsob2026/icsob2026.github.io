@@ -1,7 +1,7 @@
 ---
 layout: generic-page
 title: Call for Papers
-description: "Submit to ICSOB 2026. Topics include AI-native software business, digital sovereignty, cloud platforms, ecosystems, and sustainability. Submission deadline: July 18, 2026."
+description: "Submit to ICSOB 2026. Topics include AI-native software business, digital sovereignty, cloud platforms, ecosystems, and sustainability. Submission deadline: August 3, 2026."
 ---
 
 <div class="col-md-10 mx-auto">
