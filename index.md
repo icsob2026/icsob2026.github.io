@@ -39,6 +39,12 @@ links:
 
     <hr class="my-4">
 
+    <h3 class="mb-3">Important Dates</h3>
+
+    {% include important-dates/_all.html %}
+
+    <hr class="my-4">
+
     <h3 class="text-center mb-3">Proceedings</h3>
     <p>Accepted papers will be published in <strong>Springer's Lecture Notes in Business Information Processing (LNBIP)</strong> series and indexed in Scopus, DBLP, and other major scientific databases. Previous ICSOB proceedings are available at <a href="https://link.springer.com/conference/icsob" target="_blank">link.springer.com/conference/icsob</a>.</p>
 
