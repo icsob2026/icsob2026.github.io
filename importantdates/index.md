@@ -1,7 +1,7 @@
 ---
 layout: generic-page
 title: Important Dates
-description: "Key deadlines for ICSOB 2026: research paper submission August 3, notification September 1, conference October 26–28, 2026 in Gothenburg, Sweden."
+description: "Key deadlines for ICSOB 2026: research paper submission August 7 (final extension), notification September 1, conference October 26–28, 2026 in Gothenburg, Sweden."
 ---
 
 <div class="col-md-10 mx-auto">
