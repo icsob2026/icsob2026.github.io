@@ -151,8 +151,8 @@ conference:
         menu:
           - name: Organizing Committee
             relative_url: /organizing-committee/
-#          - name: Program Committee
-#            relative_url: /program-committee/
+          - name: Program Committee
+            relative_url: /program-committee/
       - name: Attending
         menu:
           - name: Registration
