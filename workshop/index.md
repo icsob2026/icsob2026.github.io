@@ -1,7 +1,7 @@
 ---
 layout: generic-page
 title: Workshop
-description: "Workshop at ICSOB 2026 — Software Startups Research Agenda in the Era of AI. Submission deadline: September 7, 2026."
+description: "Workshop at ICSOB 2026 — Software Startups Research Agenda in the Era of AI. Submission deadline: September 30, 2026."
 ---
 
 <div class="col-md-10 mx-auto">
