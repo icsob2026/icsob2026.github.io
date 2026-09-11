@@ -9,9 +9,6 @@ description: "Register for ICSOB 2026 in Gothenburg, Sweden. Information about r
 
     <p>Registration for ICSOB 2026 is not yet open. Details about registration fees, deadlines, and the online registration system will be announced as they become available. Please check back later.</p>
 
-    <p><b>One registration per paper</b></p>
-    <p>Each registration covers exactly one accepted paper, identified by its paper ID (as assigned in EasyChair). Authors with more than one accepted paper must complete a separate registration for each paper ID.</p>
-
     <p><b>Cancellation policy</b></p>
     <p>Cancellation policy details will be announced together with registration opening.</p>
 
