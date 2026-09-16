@@ -1,7 +1,7 @@
 ---
 layout: generic-page
 title: PhD Retreat – Call for Submissions
-description: "PhD Retreat at ICSOB 2026 — a dedicated forum for doctoral students in software business research. Submission deadline: September 14, 2026."
+description: "PhD Retreat at ICSOB 2026 — a dedicated forum for doctoral students in software business research. Submission deadline: September 25, 2026."
 ---
 
 <div class="col-md-10 mx-auto">
