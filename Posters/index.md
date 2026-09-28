@@ -29,8 +29,6 @@ description: "Submit your poster or demo to ICSOB 2026 — showcasing early-stag
     <li>Preliminary results in software-intensive business research and practice</li>
 </ul>
 
-<p>If accepted, you are to create and print your own poster to bring to the conference. The poster should briefly summarise your research. Posters should be A1-sized (594 mm × 841 mm) and in portrait orientation. A good poster should be visually engaging and easy to read from a short distance (1 meter). Use large fonts, clear headings, and a logical layout to guide viewers through your research. Use visual elements and avoid long blocks of text. The goal of the poster is to spark conversation with other attendees!</p>
-
 <p>Participants of the PhD retreat are especially encouraged to submit to the poster track to receive extended feedback from the conference community.</p>
 
 <hr>
@@ -57,5 +55,37 @@ description: "Submit your poster or demo to ICSOB 2026 — showcasing early-stag
 <h2>Submission Guidelines</h2>
 
 {% include submission-guidelines/_poster-demo.html %}
+
+<hr>
+
+<h2>Poster Printing Guidelines</h2>
+
+<p>Authors of accepted poster and demo track submissions should design, print, and bring an A1 poster (594 × 841 mm) in portrait orientation to the session. The poster should give a concise overview of the work.</p>
+
+<p>At the moment, we are exploring ways to help authors with printing, but we cannot guarantee this service. If you may be unable to print your poster, please contact the track chairs well in advance and provide a print-ready PDF. We will let you know whether we can help arrange local printing.</p>
+
+<hr>
+
+<h2>Poster Design Guidelines</h2>
+
+<h3>Layout and printing</h3>
+
+<ul>
+    <li>Use A1 size (594 × 841 mm) and portrait orientation.</li>
+    <li>Allow for print margins, especially if you design your poster in Microsoft PowerPoint.</li>
+    <li>Keep images at their original aspect ratio so they do not appear stretched.</li>
+    <li>Bring enough push pins to mount your poster.</li>
+</ul>
+
+<h3>Content and readability</h3>
+
+<ul>
+    <li>Include the title, authors’ names and affiliations, and contact information for the main author.</li>
+    <li>Make text, figures, and labels readable from at least 1 metre away.</li>
+    <li>Arrange the content in a clear reading order, such as top to bottom.</li>
+    <li>Balance brief text with figures, diagrams, or other visuals. Use bullet points instead of long paragraphs where helpful.</li>
+    <li>Give charts and statistical results clear titles and brief explanations.</li>
+    <li>Consider adding a QR code linking to the paper, project page, demo, or other relevant material.</li>
+</ul>
 
 </div>
