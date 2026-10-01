@@ -33,7 +33,7 @@ description: "Program rundown for ICSOB 2026, the 17th International Conference 
     <h3 class="h4 mt-5 mb-3">Tuesday, 27 October 2026</h3>
     <p><strong>08:30–09:00</strong> — Walk-in and registration — foyer / venue TBC</p>
     <p><strong>09:00–09:15</strong> — Opening and introduction — main hall</p>
-    <p><strong>09:15–10:00</strong> — Keynote 1 — speaker and title TBC</p>
+    <p><strong>09:15–10:00</strong> — Keynote 1 — Ricardo Britto, “How Much Is Intelligence Worth?”</p>
     <p><strong>10:00–10:15</strong> — Coffee break</p>
     <h4 class="h5 mt-4">Parallel paper sessions 1</h4>
     <div class="row g-4 mb-4">
