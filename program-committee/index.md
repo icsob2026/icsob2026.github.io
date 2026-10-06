@@ -102,4 +102,41 @@ description: "Meet the Program Committee of ICSOB 2026, the 17th International C
         </table>
     </div>
 
+    <h2 id="PhDRetreatTrack" class="mb-4 mt-5">PhD Retreat Track</h2>
+
+    <div class="table-responsive">
+        <table class="table table-striped table-hover align-middle pc-table">
+            <thead>
+                <tr>
+                    <th scope="col">Name</th>
+                    <th scope="col">Affiliation</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr><td>Awdren Fontão</td><td>Federal University of Mato Grosso do Sul (UFMS)</td></tr>
+                <tr><td>Carina Alves</td><td>Federal University of Pernambuco (UFPE)</td></tr>
+                <tr><td>Carla Bezerra</td><td>Federal University of Ceará (UFC)</td></tr>
+                <tr><td>Damian Kedziora</td><td>LUT University</td></tr>
+                <tr><td>Dimitri Petrik</td><td>Graduate School of Excellence advanced Manufacturing Engineering (GSaME)</td></tr>
+                <tr><td>Emanuel Coutinho</td><td>Federal University of Ceará (UFC)</td></tr>
+                <tr><td>Everton Cavalcante</td><td>Federal University of Rio Grande do Norte (UFRN)</td></tr>
+                <tr><td>Fabio Rocha</td><td>Federal University of Sergipe (UFS)</td></tr>
+                <tr><td>Helena Holmström Olsson</td><td>University of Malmö</td></tr>
+                <tr><td>Jamal El Hachem</td><td>Institut de Recherche en Informatique et Systèmes Aléatoires (IRISA), Université de Bretagne Sud (UBS)</td></tr>
+                <tr><td>Jan Bosch</td><td>Chalmers University of Technology, Eindhoven University of Technology</td></tr>
+                <tr><td>Jesper Andersson</td><td>Linnaeus University</td></tr>
+                <tr><td>Jorge Melegati</td><td>University of Porto</td></tr>
+                <tr><td>José Maria David</td><td>Federal University of Juiz de Fora (UFJF)</td></tr>
+                <tr><td>Kari Smolander</td><td>LUT University</td></tr>
+                <tr><td>Klaas-Jan Stol</td><td>Lero, University College Cork</td></tr>
+                <tr><td>Luciana Zaina</td><td>Federal University of São Carlos (UFSCar)</td></tr>
+                <tr><td>Marcos Seruffo</td><td>Federal University of Pará (UFPA)</td></tr>
+                <tr><td>Noor Hasrina Bakar</td><td>Taylors University</td></tr>
+                <tr><td>Paulo Malcher</td><td>Federal Rural University of Amazônia (UFRA)</td></tr>
+                <tr><td>Rodrigo Zacarias</td><td>Fluminense Federal University (UFF)</td></tr>
+                <tr><td>Tommi Mikkonen</td><td>Jyväskylä University</td></tr>
+            </tbody>
+        </table>
+    </div>
+
 </div>
