@@ -72,38 +72,38 @@ description: "PhD Retreat at ICSOB 2026 — a dedicated forum for doctoral stude
 
     <h2 id="AcceptedPapers">Accepted Submissions</h2>
 
-    <div class="mb-4">
-        <h5 class="mb-1">Assessing and improving data quality and data trustworthiness in AI-driven software-intensive systems</h5>
+    <div class="mb-4 mt-4">
+        <h5 class="mb-1">Title: <em>Assessing and improving data quality and data trustworthiness in AI-driven software-intensive systems</em></h5>
         <p class="mb-1"><b>PhD Student:</b> Hariharan Gopinath (Chalmers University of Technology, Sweden)</p>
         <p class="mb-0"><b>Supervisors:</b> Jan Bosch (Chalmers University of Technology, Sweden &amp; Eindhoven University of Technology, The Netherlands), and Helena Holmström Olsson (Malmö University, Sweden)</p>
     </div>
 
     <div class="mb-4">
-        <h5 class="mb-1">Closing the Loop: Toward Scalable Learning Loops in Software-Intensive R&amp;D</h5>
+        <h5 class="mb-1">Title: <em>Closing the Loop: Toward Scalable Learning Loops in Software-Intensive R&amp;D</em></h5>
         <p class="mb-1"><b>PhD Student:</b> Sayeri Mukherjee (Malmö University, Sweden)</p>
         <p class="mb-0"><b>Supervisors:</b> Jan Bosch (Chalmers University of Technology, Sweden &amp; Eindhoven University of Technology, The Netherlands), and Helena Holmström Olsson (Malmö University, Sweden)</p>
     </div>
 
     <div class="mb-4">
-        <h5 class="mb-1">From Regulatory Compliance to Practice: The Organizational Integration of Digital Product Passports</h5>
+        <h5 class="mb-1">Title: <em>From Regulatory Compliance to Practice: The Organizational Integration of Digital Product Passports</em></h5>
         <p class="mb-1"><b>PhD Student:</b> Timmy Öberg (Linnaeus University, Sweden)</p>
         <p class="mb-0"><b>Supervisor:</b> Jesper Andersson (Linnaeus University, Sweden)</p>
     </div>
 
     <div class="mb-4">
-        <h5 class="mb-1">Grassroots Civic Tech: From Software Development to Data Sensemaking and the Role of GenAI</h5>
+        <h5 class="mb-1">Title: <em>Grassroots Civic Tech: From Software Development to Data Sensemaking and the Role of GenAI</em></h5>
         <p class="mb-1"><b>PhD Student:</b> Sreman Qamar Chandio (LUT University, Finland)</p>
         <p class="mb-0"><b>Supervisors:</b> Dominik Siemon (LUT University, Finland), and Antti Knutas (LUT University, Finland)</p>
     </div>
 
     <div class="mb-4">
-        <h5 class="mb-1">Toward Information-Aware and Verifiable Agentic Systems for Software Engineering</h5>
+        <h5 class="mb-1">Title: <em>Toward Information-Aware and Verifiable Agentic Systems for Software Engineering</em></h5>
         <p class="mb-1"><b>PhD Student:</b> Spyridon Alvanakis Apostolou (Chalmers University of Technology, Gothenburg, Sweden)</p>
         <p class="mb-0"><b>Supervisors:</b> Jan Bosch (Chalmers University of Technology, Sweden &amp; Eindhoven University of Technology, The Netherlands), and Helena Holmström Olsson (Malmö University, Sweden)</p>
     </div>
 
     <div class="mb-4">
-        <h5 class="mb-1">Tracing Compliance Changes in Digital-Health Software Architectures</h5>
+        <h5 class="mb-1">Title: <em>Tracing Compliance Changes in Digital-Health Software Architectures</em></h5>
         <p class="mb-1"><b>PhD Student:</b> David Carrascosa Victori (Utrecht University, The Netherlands)</p>
         <p class="mb-0"><b>Supervisors:</b> Slinger Jansen (Utrecht University, The Netherlands), and Katsiaryna Labunets (Utrecht University, The Netherlands)</p>
     </div>
