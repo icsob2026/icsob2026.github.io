@@ -26,9 +26,8 @@ description: "Program rundown for ICSOB 2026, the 17th International Conference 
     </style>
 
     <h3 class="h4 mt-5 mb-3">Monday, 26 October 2026</h3>
-    <p><strong>Time TBC</strong> — PhD Retreat — room TBC</p>
-    <p><strong>Time TBC</strong> — Workshop: Software Startups Research Agenda in the Era of AI — room TBC</p>
-    <p class="text-muted small"><em>The PhD Retreat and Workshop run in parallel on Monday. Detailed timing will be published here once confirmed.</em></p>
+    <p><strong>Time TBC</strong> — PhD Retreat (<a href="/PhDRetreatSubmissions/#AcceptedPapers">See Accepted Submissions</a>) — room TBC</p>
+    <p class="text-muted small"><em>Detailed timing will be published here once confirmed.</em></p>
 
     <h3 class="h4 mt-5 mb-3">Tuesday, 27 October 2026</h3>
     <p><strong>08:30–09:00</strong> — Walk-in and registration — foyer / venue TBC</p>
