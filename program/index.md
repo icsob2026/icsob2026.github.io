@@ -140,9 +140,9 @@ description: "Program rundown for ICSOB 2026, the 17th International Conference 
             <div class="paper-authors text-muted">J. David Patón-Romero, Jo E. Hannay and Magne Jørgensen</div>
         </div>
         <div class="paper-item mb-3">
-            <div class="small text-muted">15:55–16:15 &middot; <span class="badge bg-secondary">Short</span></div>
-            <div class="paper-title fw-bold">Artificial Intelligence in EU Public Procurement: A Preliminary Multilingual Measurement Study, 2020-2026</div>
-            <div class="paper-authors text-muted">Lars Malmqvist</div>
+            <div class="small text-muted">15:55–16:15 &middot; <span class="badge bg-primary">Full</span></div>
+            <div class="paper-title fw-bold">TESSA: A Governance-Oriented Custom GPT for SME Guidance under the EU AI Act: Design, Implementation, and Evaluation</div>
+            <div class="paper-authors text-muted">Chalisa Veesommai Sillberg, Kai-Kristian Kemell, Pekka Sillberg, Katri Harjuvetelainen, Mika Saari and Pekka Abrahamsson</div>
         </div>
         </div>
         <div class="col-md-6">
@@ -220,16 +220,11 @@ description: "Program rundown for ICSOB 2026, the 17th International Conference 
         </div>
         <div class="paper-item mb-3">
             <div class="small text-muted">14:00–14:30 &middot; <span class="badge bg-primary">Full</span></div>
-            <div class="paper-title fw-bold">TESSA: A Governance-Oriented Custom GPT for SME Guidance under the EU AI Act: Design, Implementation, and Evaluation</div>
-            <div class="paper-authors text-muted">Chalisa Veesommai Sillberg, Kai-Kristian Kemell, Pekka Sillberg, Katri Harjuvetelainen, Mika Saari and Pekka Abrahamsson</div>
-        </div>
-        <div class="paper-item mb-3">
-            <div class="small text-muted">14:30–15:00 &middot; <span class="badge bg-primary">Full</span></div>
             <div class="paper-title fw-bold">An Aristotelian End User Perspective on AI Explanations</div>
             <div class="paper-authors text-muted">Dorthea Mathilde Kristin Vatn, Rasmus Ulfsnes, Nils Brede Moe and Patrick Mikalef</div>
         </div>
         <div class="paper-item mb-3">
-            <div class="small text-muted">15:00–15:30 &middot; <span class="badge bg-primary">Full</span></div>
+            <div class="small text-muted">14:30–15:00 &middot; <span class="badge bg-primary">Full</span></div>
             <div class="paper-title fw-bold">Spectrum of Agreement: Stances on Ethical Issues across Software Domains</div>
             <div class="paper-authors text-muted">Tom Humbert and Emitzá Guzmán</div>
         </div>
