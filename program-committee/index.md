@@ -139,4 +139,25 @@ description: "Meet the Program Committee of ICSOB 2026, the 17th International C
         </table>
     </div>
 
+    <h2 id="PosterAndDemoTrack" class="mb-4 mt-5">Poster and Demo Track</h2>
+
+    <div class="table-responsive">
+        <table class="table table-striped table-hover align-middle pc-table">
+            <thead>
+                <tr>
+                    <th scope="col">Name</th>
+                    <th scope="col">Affiliation</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr><td>Beatriz Cabrero-Daniel</td><td>Mid Sweden University</td></tr>
+                <tr><td>Cristina Martinez Montes</td><td>Chalmers University of Technology - Mid Sweden University</td></tr>
+                <tr><td>Frédéric Pattyn</td><td>Ghent University</td></tr>
+                <tr><td>Lena-Maria Öberg</td><td>Mid Sweden University</td></tr>
+                <tr><td>Nan Yang</td><td>LUT University</td></tr>
+                <tr><td>Zeeshan Hameed</td><td>Free University of Bozen-Bolzano</td></tr>
+            </tbody>
+        </table>
+    </div>
+
 </div>

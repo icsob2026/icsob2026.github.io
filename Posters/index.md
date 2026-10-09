@@ -88,4 +88,26 @@ description: "Submit your poster or demo to ICSOB 2026 — showcasing early-stag
     <li>Consider adding a QR code linking to the paper, project page, demo, or other relevant material.</li>
 </ul>
 
+<hr>
+
+<h2 id="AcceptedSubmissions">Accepted Submissions</h2>
+
+<h3>Let's Get Them All: Towards More Inclusive Marketing of Software Engineering Education</h3>
+<p>Sonja Hyrynsalmi<sup>1</sup>, Aino Heimonen<sup>2</sup> and Ella Peltonen<sup>2</sup></p>
+<p><sup>1</sup> LUT University, Lahti Campus, Finland<br>
+<sup>2</sup> University of Oulu, Oulu, Finland</p>
+
+<h3>MATSI: An AI-Supported Management Simulation for Exploring Organizational Change</h3>
+<p>Mikko Auranen, Dua Sultan, Jari Puolijoki, Jussi Rasku, Kai-Kristian Kemell and Pekka Abrahamsson</p>
+<p>Tampere University, Finland</p>
+
+<h3>Position: Scaling AI Does Not Necessarily Build Organizational Co-Intelligence</h3>
+<p>Priyanka Mishra<sup>1</sup>, Mohit Nayak<sup>2</sup> and Asutosh Hota<sup>2</sup></p>
+<p><sup>1</sup> Lumu Oy, Finland<br>
+<sup>2</sup> University of Jyväskylä, Finland</p>
+
+<h3>Active Personas: A Working Prototype for Synthetic User Feedback Generation</h3>
+<p>Mario Simaremare and Henry Edison</p>
+<p>Blekinge Institute of Technology, Valhallavägen 10, 371 79 Karlskrona, Sweden</p>
+
 </div>
