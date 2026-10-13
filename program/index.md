@@ -67,7 +67,8 @@ description: "Program rundown for ICSOB 2026, the 17th International Conference 
     <h3 class="h4 mt-5 mb-3">Tuesday, 27 October 2026</h3>
     <p><strong>08:30–09:00</strong> — Walk-in and registration — foyer / venue TBC</p>
     <p><strong>09:00–09:15</strong> — Opening and introduction — main hall</p>
-    <p><strong>09:15–10:00</strong> — Keynote 1 — Ricardo Britto, “How Much Is Intelligence Worth?”</p>
+    <p><strong>09:15–10:00</strong> — Keynote 1 — Ricardo Britto (Ericsson AB), “How Much Is Intelligence Worth?”</p>
+    <p class="text-muted small"><strong>Abstract.</strong> In software products that rely heavily on AI, intelligence combines models, domain knowledge, and agent execution. Improving these capabilities creates competing pressures. External model services may improve customer outcomes but increase costs, deepen vendor dependencies, or require access to knowledge that customers need to control. Developing capabilities in-house can provide greater control, but demands investment that rapidly improving alternatives may undermine. To guide these choices, this keynote presents an intelligence evaluation and decision framework within AI-native product management. It connects evaluations of product capabilities and sovereignty requirements with customer evidence and delivery economics. Persistent product management agents use linked decision records to connect new evidence to earlier commitments and support reassessment. We illustrate the framework through a hypothetical telecommunications subscriber-retention product, following a decision prompted by stricter customer sovereignty requirements. Participants will learn to state product promises as measured outcomes against a baseline, separate capability gains from commercial value, select and test the control a decision depends on, and name the conditions that would reopen it.</p>
     <p><strong>10:00–10:15</strong> — Coffee break</p>
     <h4 class="h5 mt-4">Parallel paper sessions 1</h4>
     <div class="row g-4 mb-4">
@@ -200,7 +201,8 @@ description: "Program rundown for ICSOB 2026, the 17th International Conference 
     </div>
     <h3 class="h4 mt-5 mb-3">Wednesday, 28 October 2026</h3>
     <p><strong>09:00–09:15</strong> — Opening and introduction — main hall</p>
-    <p><strong>09:15–10:00</strong> — Keynote 2 — speaker and title TBC</p>
+    <p><strong>09:15–10:00</strong> — Keynote 2 — Miroslaw Staron (Chalmers University), “Crafting Quality Software: Design-Level Intelligence of Agentic AI systems”</p>
+    <p class="text-muted small"><strong>Abstract.</strong> Agentic AI offers new possibilities for developing large software systems. However, software-developing agents are not bound by the same laws as human software engineers because of their inherent nature. The resulting software has structure, but not the structure we are used to. In this talk, I will show how software systems designed and developed by autonomous agents differ from those developed by human software engineers. We discuss design-level intelligence and what it means for software engineers and product managers.</p>
     <p><strong>10:00–10:30</strong> — Coffee break, posters and demos — details TBC</p>
     <h4 class="h5 mt-4">Best Paper Session — Preliminary Nominees</h4>
         <div class="paper-item mb-3">
