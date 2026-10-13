@@ -208,6 +208,12 @@ description: "Program rundown for ICSOB 2026, the 17th International Conference 
         </div>
         </div>
     </div>
+
+    <h4 class="h5 mt-4">Conference Dinner</h4>
+    <p><strong>17:00</strong> — Travel from Lindholmen to World of Volvo via <a href="https://www.vasttrafik.se/en/travel-planning/Timetables/line/9011014501200000/" target="_blank">Tram 12</a> (Lindholmen to Almedal)</p>
+    <p><strong>17:00</strong> — World of Volvo Exhibition, free entry for conference attendees</p>
+    <p><strong>18:00</strong> — Dinner at <a href="https://www.worldofvolvo.com/en/meetings/" target="_blank">World of Volvo</a> (<a href="https://maps.app.goo.gl/MBhTYjx9pGqy4eCW7" target="_blank">View on Google Maps</a>)</p>
+
     <h3 class="h4 mt-5 mb-3">Wednesday, 28 October 2026</h3>
     <p><strong>09:00–09:15</strong> — Opening and introduction — main hall</p>
     <div class="mb-3">
