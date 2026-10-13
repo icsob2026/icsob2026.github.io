@@ -65,6 +65,11 @@ description: "Program rundown for ICSOB 2026, the 17th International Conference 
     <p><strong>16:30</strong> — Closing</p>
     <p class="text-muted small"><em>Further details will be published here once confirmed. See the <a href="/PhDRetreatSubmissions/#AcceptedPapers">Accepted Submissions</a> for full titles, authors, and supervisors.</em></p>
 
+    <h4 class="h5 mt-4">Welcome Reception</h4>
+    <p><strong>16:30</strong> — The group takes <a href="https://www.vasttrafik.se/en/travel-planning/Timetables/line/9011014528600000/" target="_blank">a free ferry</a> from Lindholmen to Stenpiren. The ferry connects the Lindholmen area to the city centre.</p>
+    <p><strong>17:00–20:00</strong> — Welcome Reception at <a href="https://greksson.se/" target="_blank">Greksson Deli och Café</a></p>
+    <p class="text-muted small">Värmlandsgatan 20, 413 28 Göteborg — <a href="https://maps.app.goo.gl/2LKa4wjTfkGJxnE19" target="_blank">View on Google Maps</a></p>
+
     <h3 class="h4 mt-5 mb-3">Tuesday, 27 October 2026</h3>
     <p><strong>08:30–09:00</strong> — Walk-in and registration — foyer / venue TBC</p>
     <p><strong>09:00–09:15</strong> — Opening and introduction — main hall</p>
