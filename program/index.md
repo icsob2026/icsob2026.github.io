@@ -26,7 +26,8 @@ description: "Program rundown for ICSOB 2026, the 17th International Conference 
     </style>
 
     <h3 class="h4 mt-5 mb-3">Monday, 26 October 2026</h3>
-    <h4 class="h5 mt-4">PhD Retreat — room TBC</h4>
+    <h4 class="h5 mt-4">PhD Retreat — Room 520, Plan 5, Jupiter Building, Chalmers</h4>
+    <p class="text-muted small">Hörselgången 5, Gothenburg, 417 56 Sweden — <a href="https://www.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode&amp;q=H%C3%B6rselg%C3%A5ngen+5+Gothenburg+417+56+Sweden" target="_blank">View on Google Maps</a></p>
     <p><strong>12:00–13:00</strong> — Lunch + Motivational Talk (Break the Ice)</p>
     <p><strong>13:00–15:00</strong> — Presentations (15 min presentation + 5 min Q&amp;A for each PhD student)</p>
     <div class="paper-item mb-3">
@@ -62,7 +63,7 @@ description: "Program rundown for ICSOB 2026, the 17th International Conference 
     <p><strong>15:00–15:30</strong> — Coffee break</p>
     <p><strong>15:30–16:30</strong> — Mentorship (groups of mentors and PhD students)</p>
     <p><strong>16:30</strong> — Closing</p>
-    <p class="text-muted small"><em>Room and further details will be published here once confirmed. See the <a href="/PhDRetreatSubmissions/#AcceptedPapers">Accepted Submissions</a> for full titles, authors, and supervisors.</em></p>
+    <p class="text-muted small"><em>Further details will be published here once confirmed. See the <a href="/PhDRetreatSubmissions/#AcceptedPapers">Accepted Submissions</a> for full titles, authors, and supervisors.</em></p>
 
     <h3 class="h4 mt-5 mb-3">Tuesday, 27 October 2026</h3>
     <p><strong>08:30–09:00</strong> — Walk-in and registration — foyer / venue TBC</p>
