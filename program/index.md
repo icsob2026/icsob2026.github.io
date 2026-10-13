@@ -26,8 +26,43 @@ description: "Program rundown for ICSOB 2026, the 17th International Conference 
     </style>
 
     <h3 class="h4 mt-5 mb-3">Monday, 26 October 2026</h3>
-    <p><strong>Time TBC</strong> — PhD Retreat (<a href="/PhDRetreatSubmissions/#AcceptedPapers">See Accepted Submissions</a>) — room TBC</p>
-    <p class="text-muted small"><em>Detailed timing will be published here once confirmed.</em></p>
+    <h4 class="h5 mt-4">PhD Retreat — room TBC</h4>
+    <p><strong>12:00–13:00</strong> — Lunch + Motivational Talk (Break the Ice)</p>
+    <p><strong>13:00–15:00</strong> — Presentations (15 min presentation + 5 min Q&amp;A for each PhD student)</p>
+    <div class="paper-item mb-3">
+        <div class="small text-muted">13:00–13:20</div>
+        <div class="paper-title fw-bold">Assessing and improving data quality and data trustworthiness in AI-driven software-intensive systems</div>
+        <div class="paper-authors text-muted">Hariharan Gopinath (Chalmers University of Technology, Sweden)</div>
+    </div>
+    <div class="paper-item mb-3">
+        <div class="small text-muted">13:20–13:40</div>
+        <div class="paper-title fw-bold">Closing the Loop: Toward Scalable Learning Loops in Software-Intensive R&amp;D</div>
+        <div class="paper-authors text-muted">Sayeri Mukherjee (Malmö University, Sweden)</div>
+    </div>
+    <div class="paper-item mb-3">
+        <div class="small text-muted">13:40–14:00</div>
+        <div class="paper-title fw-bold">From Regulatory Compliance to Practice: The Organizational Integration of Digital Product Passports</div>
+        <div class="paper-authors text-muted">Timmy Öberg (Linnaeus University, Sweden)</div>
+    </div>
+    <div class="paper-item mb-3">
+        <div class="small text-muted">14:00–14:20</div>
+        <div class="paper-title fw-bold">Grassroots Civic Tech: From Software Development to Data Sensemaking and the Role of GenAI</div>
+        <div class="paper-authors text-muted">Sreman Qamar Chandio (LUT University, Finland)</div>
+    </div>
+    <div class="paper-item mb-3">
+        <div class="small text-muted">14:20–14:40</div>
+        <div class="paper-title fw-bold">Toward Information-Aware and Verifiable Agentic Systems for Software Engineering</div>
+        <div class="paper-authors text-muted">Spyridon Alvanakis Apostolou (Chalmers University of Technology, Gothenburg, Sweden)</div>
+    </div>
+    <div class="paper-item mb-3">
+        <div class="small text-muted">14:40–15:00</div>
+        <div class="paper-title fw-bold">Tracing Compliance Changes in Digital-Health Software Architectures</div>
+        <div class="paper-authors text-muted">David Carrascosa Victori (Utrecht University, The Netherlands)</div>
+    </div>
+    <p><strong>15:00–15:30</strong> — Coffee break</p>
+    <p><strong>15:30–16:30</strong> — Mentorship (groups of mentors and PhD students)</p>
+    <p><strong>16:30</strong> — Closing</p>
+    <p class="text-muted small"><em>Room and further details will be published here once confirmed. See the <a href="/PhDRetreatSubmissions/#AcceptedPapers">Accepted Submissions</a> for full titles, authors, and supervisors.</em></p>
 
     <h3 class="h4 mt-5 mb-3">Tuesday, 27 October 2026</h3>
     <p><strong>08:30–09:00</strong> — Walk-in and registration — foyer / venue TBC</p>
