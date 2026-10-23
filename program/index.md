@@ -82,8 +82,9 @@ description: "Program rundown for ICSOB 2026, the 17th International Conference 
     <p class="text-muted small">Värmlandsgatan 20, 413 28 Göteborg — <a href="https://maps.app.goo.gl/2LKa4wjTfkGJxnE19" target="_blank">View on Google Maps</a></p>
 
     <h3 class="h4 mt-5 mb-3">Tuesday, 27 October 2026</h3>
-    <p><strong>08:30–09:00</strong> — Walk-in and registration — foyer / venue TBC</p>
-    <p><strong>09:00–09:15</strong> — Opening and introduction — main hall</p>
+    <p class="text-muted"><i class="fas fa-map-marker-alt"></i>&nbsp;Location: Room <a href="https://www.chalmerskonferens.se/motas-uppleva/lindholmen-conference-centre/pascal/" target="_blank">Pascal</a>.</p>
+    <p><strong>08:30–09:00</strong> — Walk-in and registration — foyer</p>
+    <p><strong>09:00–09:15</strong> — Opening and introduction</p>
     <div class="mb-3">
         <h5 class="mb-1"><strong>09:15–10:00</strong> — Keynote 1 — “How Much Is Intelligence Worth?”</h5>
         <p class="text-muted mb-1">Ricardo Britto (Ericsson AB, Sweden)</p>
@@ -93,7 +94,7 @@ description: "Program rundown for ICSOB 2026, the 17th International Conference 
     <h4 class="h5 mt-4">Parallel paper sessions 1</h4>
     <div class="row g-4 mb-4">
         <div class="col-md-6">
-            <h5 class="h6 text-muted">Room A (TBC)  •  Digital Sovereignty, Identity and Governance</h5>
+            <h5 class="h6 text-muted">Room <a href="https://www.chalmerskonferens.se/motas-uppleva/lindholmen-conference-centre/pascal/" target="_blank">Pascal</a> • Digital Sovereignty, Identity and Governance</h5>
         <div class="paper-item mb-3">
             <div class="small text-muted">10:15–10:45 &middot; <span class="badge bg-primary">Full</span></div>
             <div class="paper-title fw-bold">Digital Sovereignty and European Companies: Awareness, Technological Dependence, and Governance Gaps</div>
@@ -116,7 +117,7 @@ description: "Program rundown for ICSOB 2026, the 17th International Conference 
         </div>
         </div>
         <div class="col-md-6">
-            <h5 class="h6 text-muted">Room B (TBC)  •  AI-Native Product Management, Operations and Ideation</h5>
+            <h5 class="h6 text-muted">Room <a href="https://www.chalmerskonferens.se/en/meet-experience/lindholmen-conference-centre/tesla/" target="_blank">Tesla</a>  •  AI-Native Product Management, Operations and Ideation</h5>
         <div class="paper-item mb-3">
             <div class="small text-muted">10:15–10:45 &middot; <span class="badge bg-primary">Full</span></div>
             <div class="paper-title fw-bold">Beyond Code Generation: Organizational Conditions for Sustainable AI Use in Software Development</div>
@@ -143,7 +144,7 @@ description: "Program rundown for ICSOB 2026, the 17th International Conference 
     <h4 class="h5 mt-4">Parallel paper sessions 2</h4>
     <div class="row g-4 mb-4">
         <div class="col-md-6">
-            <h5 class="h6 text-muted">Room A (TBC)  •  Platforms and Software Ecosystems</h5>
+            <h5 class="h6 text-muted">Room <a href="https://www.chalmerskonferens.se/motas-uppleva/lindholmen-conference-centre/pascal/" target="_blank">Pascal</a>  •  Platforms and Software Ecosystems</h5>
         <div class="paper-item mb-3">
             <div class="small text-muted">12:55–13:25 &middot; <span class="badge bg-primary">Full</span></div>
             <div class="paper-title fw-bold">Towards Actionable Typification of Platform Ecosystems</div>
@@ -161,7 +162,7 @@ description: "Program rundown for ICSOB 2026, the 17th International Conference 
         </div>
         </div>
         <div class="col-md-6">
-            <h5 class="h6 text-muted">Room B (TBC)  •  AI-Enabled Software Work and Cross-Organizational Coordination</h5>
+            <h5 class="h6 text-muted">Room <a href="https://www.chalmerskonferens.se/en/meet-experience/lindholmen-conference-centre/tesla/" target="_blank">Tesla</a>  •  AI-Enabled Software Work and Cross-Organizational Coordination</h5>
         <div class="paper-item mb-3">
             <div class="small text-muted">12:55–13:25 &middot; <span class="badge bg-primary">Full</span></div>
             <div class="paper-title fw-bold">When Decision Context Does Not Travel with the Artifact: A Framework for Microdecision Governance in Agentic Software Work</div>
@@ -183,7 +184,7 @@ description: "Program rundown for ICSOB 2026, the 17th International Conference 
     <h4 class="h5 mt-4">Parallel paper sessions 3</h4>
     <div class="row g-4 mb-4">
         <div class="col-md-6">
-            <h5 class="h6 text-muted">Room A (TBC)  •  AI-Enabled Procurement and Public-Sector Digitalization</h5>
+            <h5 class="h6 text-muted">Room <a href="https://www.chalmerskonferens.se/motas-uppleva/lindholmen-conference-centre/pascal/" target="_blank">Pascal</a>  •  AI-Enabled Procurement and Public-Sector Digitalization</h5>
         <div class="paper-item mb-3">
             <div class="small text-muted">14:55–15:25 &middot; <span class="badge bg-primary">Full</span></div>
             <div class="paper-title fw-bold">TenderIntell: Designing and Evaluating Multi-Agent Support for Tendering</div>
@@ -201,7 +202,7 @@ description: "Program rundown for ICSOB 2026, the 17th International Conference 
         </div>
         </div>
         <div class="col-md-6">
-            <h5 class="h6 text-muted">Room B (TBC)  •  Operational Decisions and Secure Systems</h5>
+            <h5 class="h6 text-muted">Room <a href="https://www.chalmerskonferens.se/en/meet-experience/lindholmen-conference-centre/tesla/" target="_blank">Tesla</a>  •  Operational Decisions and Secure Systems</h5>
         <div class="paper-item mb-3">
             <div class="small text-muted">14:55–15:25 &middot; <span class="badge bg-primary">Full</span></div>
             <div class="paper-title fw-bold">Adaptive Routing as Operational Insurance: A Training-Free Mechanism for Business-Process Decisions under Changing Costs</div>
@@ -226,7 +227,8 @@ description: "Program rundown for ICSOB 2026, the 17th International Conference 
     <p><strong>18:00</strong> — Dinner at <a href="https://www.worldofvolvo.com/en/meetings/" target="_blank">World of Volvo</a> (<a href="https://maps.app.goo.gl/MBhTYjx9pGqy4eCW7" target="_blank">View on Google Maps</a>)</p>
 
     <h3 class="h4 mt-5 mb-3">Wednesday, 28 October 2026</h3>
-    <p><strong>09:00–09:15</strong> — Opening and introduction — main hall</p>
+    <p class="text-muted"><i class="fas fa-map-marker-alt"></i>&nbsp;Location: Room <a href="https://www.chalmerskonferens.se/motas-uppleva/lindholmen-conference-centre/pascal/" target="_blank">Pascal</a>.</p>
+    <p><strong>09:00–09:15</strong> — Opening and introduction</p>
     <div class="mb-3">
         <h5 class="mb-1"><strong>09:15–10:00</strong> — Keynote 2 — “Crafting Quality Software: Design-Level Intelligence of Agentic AI systems”</h5>
         <p class="text-muted mb-1">Miroslaw Staron, Chalmers University</p>
@@ -259,7 +261,7 @@ description: "Program rundown for ICSOB 2026, the 17th International Conference 
     <h4 class="h5 mt-4">Parallel paper sessions 4</h4>
     <div class="row g-4 mb-4">
         <div class="col-md-6">
-            <h5 class="h6 text-muted">Room A (TBC)  •  Civic Tech, Data and Learning</h5>
+            <h5 class="h6 text-muted">Room <a href="https://www.chalmerskonferens.se/motas-uppleva/lindholmen-conference-centre/pascal/" target="_blank">Pascal</a>  •  Civic Tech, Data and Learning</h5>
         <div class="paper-item mb-3">
             <div class="small text-muted">13:30–14:00 &middot; <span class="badge bg-primary">Full</span></div>
             <div class="paper-title fw-bold">Grassroots Civic Tech Software Development and Sustainability: The Role of Generative AI</div>
@@ -277,7 +279,7 @@ description: "Program rundown for ICSOB 2026, the 17th International Conference 
         </div>
         </div>
         <div class="col-md-6">
-            <h5 class="h6 text-muted">Room B (TBC)  •  Responsible AI Governance, Explanations and Ethics</h5>
+            <h5 class="h6 text-muted">Room <a href="https://www.chalmerskonferens.se/en/meet-experience/lindholmen-conference-centre/tesla/" target="_blank">Tesla</a>  •  Responsible AI Governance, Explanations and Ethics</h5>
         <div class="paper-item mb-3">
             <div class="small text-muted">13:30–14:00 &middot; <span class="badge bg-primary">Full</span></div>
             <div class="paper-title fw-bold">Governance-by-Design for Responsible AI: An Industrial Case Study of Ethical Requirements Traceability</div>
@@ -296,5 +298,5 @@ description: "Program rundown for ICSOB 2026, the 17th International Conference 
         </div>
     </div>
     <p><strong>15:30–15:45</strong> — Coffee break</p>
-    <p><strong>15:45–16:15</strong> — Awards, next edition and closing — details TBC</p>
+    <p><strong>15:45–16:15</strong> — Awards, next edition and closing — Room Pascal</p>
 </div>
