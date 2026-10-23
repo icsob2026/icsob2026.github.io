@@ -29,6 +29,10 @@ description: "Program rundown for ICSOB 2026, the 17th International Conference 
     <h4 class="h5 mt-4">PhD Retreat — Room 520, Plan 5, Jupiter Building, Chalmers</h4>
     <p class="text-muted small">Hörselgången 5, Gothenburg, 417 56 Sweden — <a href="https://www.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode&amp;q=H%C3%B6rselg%C3%A5ngen+5+Gothenburg+417+56+Sweden" target="_blank">View on Google Maps</a></p>
     <p><strong>12:00–13:00</strong> — Lunch + Motivational Talk (Break the Ice)</p>
+    <ul class="text-muted small">
+        <li>Talk #1: Krzysztof Wnuk (Blekinge Institute of Technology, Sweden)</li>
+        <li>Talk #2: Jesper Andersson (Linnaeus University, Sweden)</li>
+    </ul>
     <p><strong>13:00–15:00</strong> — Presentations (15 min presentation + 5 min Q&amp;A for each PhD student)</p>
     <div class="paper-item mb-3">
         <div class="small text-muted">13:00–13:20</div>
@@ -62,6 +66,13 @@ description: "Program rundown for ICSOB 2026, the 17th International Conference 
     </div>
     <p><strong>15:00–15:30</strong> — Coffee break</p>
     <p><strong>15:30–16:30</strong> — Mentorship (groups of mentors and PhD students)</p>
+    <p class="text-muted small mb-1">Mentors:</p>
+    <ul class="text-muted small">
+        <li>Helena Holmström Olsson (Malmö University, Sweden)</li>
+        <li>Jesper Andersson (Linnaeus University, Sweden)</li>
+        <li>Krzysztof Wnuk (Blekinge Institute of Technology, Sweden)</li>
+        <li>Sergio Rico (Mid Sweden University, Sweden)</li>
+    </ul>
     <p><strong>16:30</strong> — Closing</p>
     <p class="text-muted small"><em>Further details will be published here once confirmed. See the <a href="/PhDRetreatSubmissions/#AcceptedPapers">Accepted Submissions</a> for full titles, authors, and supervisors.</em></p>
 
