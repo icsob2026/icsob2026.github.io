@@ -10,6 +10,8 @@ description: "Program rundown for ICSOB 2026, the 17th International Conference 
 
     <p class="mb-2 text-center">ICSOB 2026 runs October 26–28, 2026, in Gothenburg, Sweden. The program is a preliminary. Times, rooms, keynote speakers, session chairs, and the Poster &amp; Demo and PhD Retreat schedules may change.</p>
 
+    <p class="mb-2 text-center text-muted small">Each paper in the parallel and best-paper sessions has a short audio teaser of about two minutes. Press play to listen. The teasers are AI-written summaries read by a synthetic voice; if the schedule changes, the program on this page takes precedence over the times and rooms spoken in the audio.</p>
+
     <style>
         .paper-item {
             padding-left: 0.75rem;
@@ -22,6 +24,14 @@ description: "Program rundown for ICSOB 2026, the 17th International Conference 
 
         .paper-authors {
             font-size: 0.95rem;
+        }
+
+        .paper-teaser {
+            display: block;
+            width: 100%;
+            max-width: 420px;
+            height: 36px;
+            margin-top: 0.4rem;
         }
     </style>
 
@@ -99,21 +109,25 @@ description: "Program rundown for ICSOB 2026, the 17th International Conference 
             <div class="small text-muted">10:15–10:45 &middot; <span class="badge bg-primary">Full</span></div>
             <div class="paper-title fw-bold">Digital Sovereignty and European Companies: Awareness, Technological Dependence, and Governance Gaps</div>
             <div class="paper-authors text-muted">Damian Kedziora, Krzysztof Wnuk, Yuriy Bilan, Kari Smolander and Miroslaw Staron</div>
+            <audio class="paper-teaser" controls preload="none" src="/assets/audio/teasers/3824.mp3" aria-label="Audio teaser: Digital Sovereignty and European Companies: Awareness, Technological Dependence, and Governance Gaps"></audio>
         </div>
         <div class="paper-item mb-3">
             <div class="small text-muted">10:45–11:05 &middot; <span class="badge bg-secondary">Short</span></div>
             <div class="paper-title fw-bold">Toward an Integrated Reference View for Security and Privacy Engineering and Assurance Across the AI Stack</div>
             <div class="paper-authors text-muted">Iraklis Symeonidis</div>
+            <audio class="paper-teaser" controls preload="none" src="/assets/audio/teasers/5013.mp3" aria-label="Audio teaser: Toward an Integrated Reference View for Security and Privacy Engineering and Assurance Across the AI Stack"></audio>
         </div>
         <div class="paper-item mb-3">
             <div class="small text-muted">11:05–11:35 &middot; <span class="badge bg-primary">Full</span></div>
             <div class="paper-title fw-bold">Ambiguous Nature of Digital Identity: Positive and Negative Effects</div>
             <div class="paper-authors text-muted">Eerika Peltonen, Sonja M Hyrynsalmi and Kari Smolander</div>
+            <audio class="paper-teaser" controls preload="none" src="/assets/audio/teasers/2364.mp3" aria-label="Audio teaser: Ambiguous Nature of Digital Identity: Positive and Negative Effects"></audio>
         </div>
         <div class="paper-item mb-3">
             <div class="small text-muted">11:35–11:55 &middot; <span class="badge bg-secondary">Short</span></div>
             <div class="paper-title fw-bold">From Dependence to Sovereignty: A Design Science Research Agenda for Governing Mission-Critical GenAI Dependencies</div>
             <div class="paper-authors text-muted">Jiri Härmä and Pekka Abrahamsson</div>
+            <audio class="paper-teaser" controls preload="none" src="/assets/audio/teasers/6576.mp3" aria-label="Audio teaser: From Dependence to Sovereignty: A Design Science Research Agenda for Governing Mission-Critical GenAI Dependencies"></audio>
         </div>
         </div>
         <div class="col-md-6">
@@ -122,21 +136,25 @@ description: "Program rundown for ICSOB 2026, the 17th International Conference 
             <div class="small text-muted">10:15–10:45 &middot; <span class="badge bg-primary">Full</span></div>
             <div class="paper-title fw-bold">Beyond Code Generation: Organizational Conditions for Sustainable AI Use in Software Development</div>
             <div class="paper-authors text-muted">Lars Hansen, Henrik Trucksess, Stefan Fleischmann, Sathwik Amburi, Judith Strussenberg and Ulrike Lechner</div>
+            <audio class="paper-teaser" controls preload="none" src="/assets/audio/teasers/5171.mp3" aria-label="Audio teaser: Beyond Code Generation: Organizational Conditions for Sustainable AI Use in Software Development"></audio>
         </div>
         <div class="paper-item mb-3">
             <div class="small text-muted">10:45–11:05 &middot; <span class="badge bg-secondary">Short</span></div>
             <div class="paper-title fw-bold">When Does Product Ops Become Plausible? A Configurational Framework for Product Ops Emergence</div>
             <div class="paper-authors text-muted">Guilherme Moretti and Brenno Buarque</div>
+            <audio class="paper-teaser" controls preload="none" src="/assets/audio/teasers/9284.mp3" aria-label="Audio teaser: When Does Product Ops Become Plausible? A Configurational Framework for Product Ops Emergence"></audio>
         </div>
         <div class="paper-item mb-3">
             <div class="small text-muted">11:05–11:35 &middot; <span class="badge bg-primary">Full</span></div>
             <div class="paper-title fw-bold">AI-Native Product Management: A Vision</div>
             <div class="paper-authors text-muted">Ricardo Britto</div>
+            <audio class="paper-teaser" controls preload="none" src="/assets/audio/teasers/1041.mp3" aria-label="Audio teaser: AI-Native Product Management: A Vision"></audio>
         </div>
         <div class="paper-item mb-3">
             <div class="small text-muted">11:35–11:55 &middot; <span class="badge bg-secondary">Short</span></div>
             <div class="paper-title fw-bold">‘Decontaminating’ Software Ideas from Solution Framing</div>
             <div class="paper-authors text-muted">Xiaofeng Wang, Daniel Planötscher and Silvia Cortesia</div>
+            <audio class="paper-teaser" controls preload="none" src="/assets/audio/teasers/9765.mp3" aria-label="Audio teaser: ‘Decontaminating’ Software Ideas from Solution Framing"></audio>
         </div>
         </div>
     </div>
@@ -149,16 +167,19 @@ description: "Program rundown for ICSOB 2026, the 17th International Conference 
             <div class="small text-muted">12:55–13:25 &middot; <span class="badge bg-primary">Full</span></div>
             <div class="paper-title fw-bold">Towards Actionable Typification of Platform Ecosystems</div>
             <div class="paper-authors text-muted">Shady Hegazy, Christoph Elsner, Ambra Cala, Jan Bosch and Helena Holmström Olsson</div>
+            <audio class="paper-teaser" controls preload="none" src="/assets/audio/teasers/3152.mp3" aria-label="Audio teaser: Towards Actionable Typification of Platform Ecosystems"></audio>
         </div>
         <div class="paper-item mb-3">
             <div class="small text-muted">13:25–13:55 &middot; <span class="badge bg-primary">Full</span></div>
             <div class="paper-title fw-bold">Hybrid Ecosystems: Rethinking Software Ecosystems in the Age of Data and AI</div>
             <div class="paper-authors text-muted">Helena Holmström Olsson and Jan Bosch</div>
+            <audio class="paper-teaser" controls preload="none" src="/assets/audio/teasers/2359.mp3" aria-label="Audio teaser: Hybrid Ecosystems: Rethinking Software Ecosystems in the Age of Data and AI"></audio>
         </div>
         <div class="paper-item mb-3">
             <div class="small text-muted">13:55–14:25 &middot; <span class="badge bg-primary">Full</span></div>
             <div class="paper-title fw-bold">Rogue Apps and Fragmented Governance in Software Ecosystems: A Supply-Network Analysis of Mobile App Distribution</div>
             <div class="paper-authors text-muted">Elena Baninemeh and Slinger Jansen</div>
+            <audio class="paper-teaser" controls preload="none" src="/assets/audio/teasers/6761.mp3" aria-label="Audio teaser: Rogue Apps and Fragmented Governance in Software Ecosystems: A Supply-Network Analysis of Mobile App Distribution"></audio>
         </div>
         </div>
         <div class="col-md-6">
@@ -167,16 +188,19 @@ description: "Program rundown for ICSOB 2026, the 17th International Conference 
             <div class="small text-muted">12:55–13:25 &middot; <span class="badge bg-primary">Full</span></div>
             <div class="paper-title fw-bold">When Decision Context Does Not Travel with the Artifact: A Framework for Microdecision Governance in Agentic Software Work</div>
             <div class="paper-authors text-muted">Sergio Rico</div>
+            <audio class="paper-teaser" controls preload="none" src="/assets/audio/teasers/8899.mp3" aria-label="Audio teaser: When Decision Context Does Not Travel with the Artifact: A Framework for Microdecision Governance in Agentic Software Work"></audio>
         </div>
         <div class="paper-item mb-3">
             <div class="small text-muted">13:25–13:55 &middot; <span class="badge bg-primary">Full</span></div>
             <div class="paper-title fw-bold">Digitalization and Automation Reshaping AI-Enabled Systems Development, Lessons Learned</div>
             <div class="paper-authors text-muted">Hina Saeeda</div>
+            <audio class="paper-teaser" controls preload="none" src="/assets/audio/teasers/9002.mp3" aria-label="Audio teaser: Digitalization and Automation Reshaping AI-Enabled Systems Development, Lessons Learned"></audio>
         </div>
         <div class="paper-item mb-3">
             <div class="small text-muted">13:55–14:25 &middot; <span class="badge bg-primary">Full</span></div>
             <div class="paper-title fw-bold">Beyond Ticket Synchronisation: A Canonical Aggregate Pattern for Coordinating Incidents Across B2B Service Ecosystems</div>
             <div class="paper-authors text-muted">Salif Faustino, Xiaofeng Wang and Jorge Melegati</div>
+            <audio class="paper-teaser" controls preload="none" src="/assets/audio/teasers/7396.mp3" aria-label="Audio teaser: Beyond Ticket Synchronisation: A Canonical Aggregate Pattern for Coordinating Incidents Across B2B Service Ecosystems"></audio>
         </div>
         </div>
     </div>
@@ -189,16 +213,19 @@ description: "Program rundown for ICSOB 2026, the 17th International Conference 
             <div class="small text-muted">14:55–15:25 &middot; <span class="badge bg-primary">Full</span></div>
             <div class="paper-title fw-bold">TenderIntell: Designing and Evaluating Multi-Agent Support for Tendering</div>
             <div class="paper-authors text-muted">Muhammad Waseem, Abrar Morshed, Janne Harjamäki and Pekka Abrahamsson</div>
+            <audio class="paper-teaser" controls preload="none" src="/assets/audio/teasers/7660.mp3" aria-label="Audio teaser: TenderIntell: Designing and Evaluating Multi-Agent Support for Tendering"></audio>
         </div>
         <div class="paper-item mb-3">
             <div class="small text-muted">15:25–15:55 &middot; <span class="badge bg-primary">Full</span></div>
             <div class="paper-title fw-bold">Analyzing the Use of Benefits Management Concepts in Public-Sector Digitalization Projects</div>
             <div class="paper-authors text-muted">J. David Patón-Romero, Jo E. Hannay and Magne Jørgensen</div>
+            <audio class="paper-teaser" controls preload="none" src="/assets/audio/teasers/4320.mp3" aria-label="Audio teaser: Analyzing the Use of Benefits Management Concepts in Public-Sector Digitalization Projects"></audio>
         </div>
         <div class="paper-item mb-3">
             <div class="small text-muted">15:55–16:15 &middot; <span class="badge bg-primary">Full</span></div>
             <div class="paper-title fw-bold">TESSA: A Governance-Oriented Custom GPT for SME Guidance under the EU AI Act: Design, Implementation, and Evaluation</div>
             <div class="paper-authors text-muted">Chalisa Veesommai Sillberg, Kai-Kristian Kemell, Pekka Sillberg, Katri Harjuvetelainen, Mika Saari and Pekka Abrahamsson</div>
+            <audio class="paper-teaser" controls preload="none" src="/assets/audio/teasers/0357.mp3" aria-label="Audio teaser: TESSA: A Governance-Oriented Custom GPT for SME Guidance under the EU AI Act: Design, Implementation, and Evaluation"></audio>
         </div>
         </div>
         <div class="col-md-6">
@@ -207,16 +234,19 @@ description: "Program rundown for ICSOB 2026, the 17th International Conference 
             <div class="small text-muted">14:55–15:25 &middot; <span class="badge bg-primary">Full</span></div>
             <div class="paper-title fw-bold">Adaptive Routing as Operational Insurance: A Training-Free Mechanism for Business-Process Decisions under Changing Costs</div>
             <div class="paper-authors text-muted">Matheus Oliveira Jagi, Jugurta Montavão Filho and Mateus Barcellos Costa</div>
+            <audio class="paper-teaser" controls preload="none" src="/assets/audio/teasers/1888.mp3" aria-label="Audio teaser: Adaptive Routing as Operational Insurance: A Training-Free Mechanism for Business-Process Decisions under Changing Costs"></audio>
         </div>
         <div class="paper-item mb-3">
             <div class="small text-muted">15:25–15:55 &middot; <span class="badge bg-primary">Full</span></div>
             <div class="paper-title fw-bold">Towards Trustworthy AI-Enabled Emergency Medical Dispatch: Uncertainty-Aware Ambulance Travel Time Estimation</div>
             <div class="paper-authors text-muted">Muhammad Adil Abid, Johan Holmgren, Fabian Lorig and Jesper Petersson</div>
+            <audio class="paper-teaser" controls preload="none" src="/assets/audio/teasers/9513.mp3" aria-label="Audio teaser: Towards Trustworthy AI-Enabled Emergency Medical Dispatch: Uncertainty-Aware Ambulance Travel Time Estimation"></audio>
         </div>
         <div class="paper-item mb-3">
             <div class="small text-muted">15:55–16:15 &middot; <span class="badge bg-secondary">Short</span></div>
             <div class="paper-title fw-bold">Security-by-Design for Collaborative Multi-Digital-Twin Systems-of-Systems in Software-Defined Electric Vehicles: A Research-in-Progress Problem Landscape</div>
             <div class="paper-authors text-muted">Iraklis Symeonidis, Efi Papatheocharous, Rodi Jolak and Pontus Svenson</div>
+            <audio class="paper-teaser" controls preload="none" src="/assets/audio/teasers/4156.mp3" aria-label="Audio teaser: Security-by-Design for Collaborative Multi-Digital-Twin Systems-of-Systems in Software-Defined Electric Vehicles: A Research-in-Progress Problem Landscape"></audio>
         </div>
         </div>
     </div>
@@ -240,21 +270,25 @@ description: "Program rundown for ICSOB 2026, the 17th International Conference 
             <div class="small text-muted">10:30–11:00 &middot; <span class="badge bg-primary">Full</span></div>
             <div class="paper-title fw-bold">Towards a framework on success dimensions in public IS acquisition</div>
             <div class="paper-authors text-muted">Sanni Marjanen</div>
+            <audio class="paper-teaser" controls preload="none" src="/assets/audio/teasers/7144.mp3" aria-label="Audio teaser: Towards a framework on success dimensions in public IS acquisition"></audio>
         </div>
         <div class="paper-item mb-3">
             <div class="small text-muted">11:00–11:30 &middot; <span class="badge bg-primary">Full</span></div>
             <div class="paper-title fw-bold">Digital Sovereignty under Pressure in Consumer Ecosystems</div>
             <div class="paper-authors text-muted">Quirin Trimborn and Paul van Vulpen</div>
+            <audio class="paper-teaser" controls preload="none" src="/assets/audio/teasers/3138.mp3" aria-label="Audio teaser: Digital Sovereignty under Pressure in Consumer Ecosystems"></audio>
         </div>
         <div class="paper-item mb-3">
             <div class="small text-muted">11:30–11:50 &middot; <span class="badge bg-secondary">Short</span></div>
             <div class="paper-title fw-bold">Position: Human-in-the-Loop Is Not Accountability</div>
             <div class="paper-authors text-muted">Mohit Nayak, Asutosh Hota and Priyanka Mishra</div>
+            <audio class="paper-teaser" controls preload="none" src="/assets/audio/teasers/6751.mp3" aria-label="Audio teaser: Position: Human-in-the-Loop Is Not Accountability"></audio>
         </div>
         <div class="paper-item mb-3">
             <div class="small text-muted">11:50–12:10 &middot; <span class="badge bg-secondary">Short</span></div>
             <div class="paper-title fw-bold">The Criticality Gap in AI-Native Software Businesses: A Position on Moral Self-Efficacy and AI Governance</div>
             <div class="paper-authors text-muted">Ismail Zahoor and Annika Wolff</div>
+            <audio class="paper-teaser" controls preload="none" src="/assets/audio/teasers/0590.mp3" aria-label="Audio teaser: The Criticality Gap in AI-Native Software Businesses: A Position on Moral Self-Efficacy and AI Governance"></audio>
         </div>
     <p><strong>12:10–12:30</strong> — Joint discussion with the best-paper nominees</p>
     <p><strong>12:30–13:30</strong> — Lunch</p>
@@ -266,16 +300,19 @@ description: "Program rundown for ICSOB 2026, the 17th International Conference 
             <div class="small text-muted">13:30–14:00 &middot; <span class="badge bg-primary">Full</span></div>
             <div class="paper-title fw-bold">Grassroots Civic Tech Software Development and Sustainability: The Role of Generative AI</div>
             <div class="paper-authors text-muted">Sreman Chandio, Yishak Gebremichael, Viktoriia Olshanskaia, Dominik Siemon and Antti Knutas</div>
+            <audio class="paper-teaser" controls preload="none" src="/assets/audio/teasers/7098.mp3" aria-label="Audio teaser: Grassroots Civic Tech Software Development and Sustainability: The Role of Generative AI"></audio>
         </div>
         <div class="paper-item mb-3">
             <div class="small text-muted">14:00–14:30 &middot; <span class="badge bg-primary">Full</span></div>
             <div class="paper-title fw-bold">Civic Tech and Data Sensemaking: The Impact of LLMs</div>
             <div class="paper-authors text-muted">Viktoriia Olshanskaia, Andrea Hamm, Sreman Chandio, Jiri Musto, Annika Wolff and Antti Knutas</div>
+            <audio class="paper-teaser" controls preload="none" src="/assets/audio/teasers/3359.mp3" aria-label="Audio teaser: Civic Tech and Data Sensemaking: The Impact of LLMs"></audio>
         </div>
         <div class="paper-item mb-3">
             <div class="small text-muted">14:30–15:00 &middot; <span class="badge bg-primary">Full</span></div>
             <div class="paper-title fw-bold">Designing LLM-Based Learning Assistants in Higher Education: A Systematic Literature Review of Design Themes</div>
             <div class="paper-authors text-muted">Eero Suomalainen, Erno Vanhala, Janne Parkkila and Najmul Islam</div>
+            <audio class="paper-teaser" controls preload="none" src="/assets/audio/teasers/8792.mp3" aria-label="Audio teaser: Designing LLM-Based Learning Assistants in Higher Education: A Systematic Literature Review of Design Themes"></audio>
         </div>
         </div>
         <div class="col-md-6">
@@ -284,16 +321,19 @@ description: "Program rundown for ICSOB 2026, the 17th International Conference 
             <div class="small text-muted">13:30–14:00 &middot; <span class="badge bg-primary">Full</span></div>
             <div class="paper-title fw-bold">Governance-by-Design for Responsible AI: An Industrial Case Study of Ethical Requirements Traceability</div>
             <div class="paper-authors text-muted">Eko K. Budiardjo and Sandfreni Sandfreni</div>
+            <audio class="paper-teaser" controls preload="none" src="/assets/audio/teasers/7623.mp3" aria-label="Audio teaser: Governance-by-Design for Responsible AI: An Industrial Case Study of Ethical Requirements Traceability"></audio>
         </div>
         <div class="paper-item mb-3">
             <div class="small text-muted">14:00–14:30 &middot; <span class="badge bg-primary">Full</span></div>
             <div class="paper-title fw-bold">An Aristotelian End User Perspective on AI Explanations</div>
             <div class="paper-authors text-muted">Dorthea Mathilde Kristin Vatn, Rasmus Ulfsnes, Nils Brede Moe and Patrick Mikalef</div>
+            <audio class="paper-teaser" controls preload="none" src="/assets/audio/teasers/1155.mp3" aria-label="Audio teaser: An Aristotelian End User Perspective on AI Explanations"></audio>
         </div>
         <div class="paper-item mb-3">
             <div class="small text-muted">14:30–15:00 &middot; <span class="badge bg-primary">Full</span></div>
             <div class="paper-title fw-bold">Spectrum of Agreement: Stances on Ethical Issues across Software Domains</div>
             <div class="paper-authors text-muted">Tom Humbert and Emitzá Guzmán</div>
+            <audio class="paper-teaser" controls preload="none" src="/assets/audio/teasers/0773.mp3" aria-label="Audio teaser: Spectrum of Agreement: Stances on Ethical Issues across Software Domains"></audio>
         </div>
         </div>
     </div>
