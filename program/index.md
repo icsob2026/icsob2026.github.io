@@ -92,7 +92,7 @@ description: "Program rundown for ICSOB 2026, the 17th International Conference 
     <p class="text-muted small">Värmlandsgatan 20, 413 28 Göteborg — <a href="https://maps.app.goo.gl/2LKa4wjTfkGJxnE19" target="_blank">View on Google Maps</a></p>
 
     <h3 class="h4 mt-5 mb-3">Tuesday, 27 October 2026</h3>
-    <p class="text-muted"><i class="fas fa-map-marker-alt"></i>&nbsp;Location: Room <a href="https://www.chalmerskonferens.se/motas-uppleva/lindholmen-conference-centre/pascal/" target="_blank">Pascal</a>.</p>
+    <p class="text-muted"><i class="fas fa-map-marker-alt"></i>&nbsp;Location: Room <a href="https://www.chalmerskonferens.se/motas-uppleva/lindholmen-conference-centre/pascal/" target="_blank">Pascal</a> (<a href="https://maps.app.goo.gl/rA3nbveP3fSdrnZZ8" target="_blank">View on Google Maps</a>).</p>
     <p><strong>08:30–09:00</strong> — Walk-in and registration — foyer</p>
     <p><strong>09:00–09:15</strong> — Opening and introduction</p>
     <div class="mb-3">
@@ -257,7 +257,7 @@ description: "Program rundown for ICSOB 2026, the 17th International Conference 
     <p><strong>18:00</strong> — Dinner at <a href="https://www.worldofvolvo.com/en/meetings/" target="_blank">World of Volvo</a> (<a href="https://maps.app.goo.gl/MBhTYjx9pGqy4eCW7" target="_blank">View on Google Maps</a>)</p>
 
     <h3 class="h4 mt-5 mb-3">Wednesday, 28 October 2026</h3>
-    <p class="text-muted"><i class="fas fa-map-marker-alt"></i>&nbsp;Location: Room <a href="https://www.chalmerskonferens.se/motas-uppleva/lindholmen-conference-centre/pascal/" target="_blank">Pascal</a>.</p>
+    <p class="text-muted"><i class="fas fa-map-marker-alt"></i>&nbsp;Location: Room <a href="https://www.chalmerskonferens.se/motas-uppleva/lindholmen-conference-centre/pascal/" target="_blank">Pascal</a> (<a href="https://maps.app.goo.gl/rA3nbveP3fSdrnZZ8" target="_blank">View on Google Maps</a>).</p>
     <p><strong>09:00–09:15</strong> — Opening and introduction</p>
     <div class="mb-3">
         <h5 class="mb-1"><strong>09:15–10:00</strong> — Keynote 2 — “Crafting Quality Software: Design-Level Intelligence of Agentic AI systems”</h5>
