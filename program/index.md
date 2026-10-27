@@ -204,7 +204,7 @@ description: "Program rundown for ICSOB 2026, the 17th International Conference 
         </div>
         </div>
     </div>
-    <p><strong>14:25–14:55</strong> — Coffee break, posters and demos — details TBC</p>
+    <p><strong>14:25–14:55</strong> — Coffee break, posters and demos — Room Pascal</p>
     <h4 class="h5 mt-4">Parallel paper sessions 3</h4>
     <div class="row g-4 mb-4">
         <div class="col-md-6">
@@ -264,7 +264,7 @@ description: "Program rundown for ICSOB 2026, the 17th International Conference 
         <p class="text-muted mb-1">Miroslaw Staron, Chalmers University</p>
         <p class="text-muted small ms-3"><strong>Abstract.</strong> Agentic AI offers new possibilities for developing large software systems. However, software-developing agents are not bound by the same laws as human software engineers because of their inherent nature. The resulting software has structure, but not the structure we are used to. In this talk, I will show how software systems designed and developed by autonomous agents differ from those developed by human software engineers. We discuss design-level intelligence and what it means for software engineers and product managers.</p>
     </div>
-    <p><strong>10:00–10:30</strong> — Coffee break, posters and demos — details TBC</p>
+    <p><strong>10:00–10:30</strong> — Coffee break, posters and demos — Room Pascal</p>
     <h4 class="h5 mt-4">Best Paper Session — Preliminary Nominees</h4>
         <div class="paper-item mb-3">
             <div class="small text-muted">10:30–11:00 &middot; <span class="badge bg-primary">Full</span></div>
