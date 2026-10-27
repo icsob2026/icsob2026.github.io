@@ -139,7 +139,7 @@ description: "Program rundown for ICSOB 2026, the 17th International Conference 
             <audio class="paper-teaser" controls preload="none" src="/assets/audio/teasers/5171.mp3" aria-label="Audio teaser: Beyond Code Generation: Organizational Conditions for Sustainable AI Use in Software Development"></audio>
         </div>
         <div class="paper-item mb-3">
-            <div class="small text-muted">10:45–11:05 &middot; <span class="badge bg-secondary">Short</span></div>
+            <div class="small text-muted">10:45–11:05 &middot; <span class="badge bg-secondary">Short</span> <span class="badge bg-info text-dark">Online</span></div>
             <div class="paper-title fw-bold">When Does Product Ops Become Plausible? A Configurational Framework for Product Ops Emergence</div>
             <div class="paper-authors text-muted">Guilherme Moretti and Brenno Buarque</div>
             <audio class="paper-teaser" controls preload="none" src="/assets/audio/teasers/9284.mp3" aria-label="Audio teaser: When Does Product Ops Become Plausible? A Configurational Framework for Product Ops Emergence"></audio>
@@ -151,7 +151,7 @@ description: "Program rundown for ICSOB 2026, the 17th International Conference 
             <audio class="paper-teaser" controls preload="none" src="/assets/audio/teasers/1041.mp3" aria-label="Audio teaser: AI-Native Product Management: A Vision"></audio>
         </div>
         <div class="paper-item mb-3">
-            <div class="small text-muted">11:35–11:55 &middot; <span class="badge bg-secondary">Short</span></div>
+            <div class="small text-muted">11:35–11:55 &middot; <span class="badge bg-secondary">Short</span> <span class="badge bg-info text-dark">Online</span></div>
             <div class="paper-title fw-bold">‘Decontaminating’ Software Ideas from Solution Framing</div>
             <div class="paper-authors text-muted">Xiaofeng Wang, Daniel Planötscher and Silvia Cortesia</div>
             <audio class="paper-teaser" controls preload="none" src="/assets/audio/teasers/9765.mp3" aria-label="Audio teaser: ‘Decontaminating’ Software Ideas from Solution Framing"></audio>
@@ -191,13 +191,13 @@ description: "Program rundown for ICSOB 2026, the 17th International Conference 
             <audio class="paper-teaser" controls preload="none" src="/assets/audio/teasers/8899.mp3" aria-label="Audio teaser: When Decision Context Does Not Travel with the Artifact: A Framework for Microdecision Governance in Agentic Software Work"></audio>
         </div>
         <div class="paper-item mb-3">
-            <div class="small text-muted">13:25–13:55 &middot; <span class="badge bg-primary">Full</span></div>
+            <div class="small text-muted">13:25–13:55 &middot; <span class="badge bg-primary">Full</span> <span class="badge bg-info text-dark">Online</span></div>
             <div class="paper-title fw-bold">Digitalization and Automation Reshaping AI-Enabled Systems Development, Lessons Learned</div>
             <div class="paper-authors text-muted">Hina Saeeda</div>
             <audio class="paper-teaser" controls preload="none" src="/assets/audio/teasers/9002.mp3" aria-label="Audio teaser: Digitalization and Automation Reshaping AI-Enabled Systems Development, Lessons Learned"></audio>
         </div>
         <div class="paper-item mb-3">
-            <div class="small text-muted">13:55–14:25 &middot; <span class="badge bg-primary">Full</span></div>
+            <div class="small text-muted">13:55–14:25 &middot; <span class="badge bg-primary">Full</span> <span class="badge bg-info text-dark">Online</span></div>
             <div class="paper-title fw-bold">Beyond Ticket Synchronisation: A Canonical Aggregate Pattern for Coordinating Incidents Across B2B Service Ecosystems</div>
             <div class="paper-authors text-muted">Salif Faustino, Xiaofeng Wang and Jorge Melegati</div>
             <audio class="paper-teaser" controls preload="none" src="/assets/audio/teasers/7396.mp3" aria-label="Audio teaser: Beyond Ticket Synchronisation: A Canonical Aggregate Pattern for Coordinating Incidents Across B2B Service Ecosystems"></audio>
@@ -237,7 +237,7 @@ description: "Program rundown for ICSOB 2026, the 17th International Conference 
             <audio class="paper-teaser" controls preload="none" src="/assets/audio/teasers/1888.mp3" aria-label="Audio teaser: Adaptive Routing as Operational Insurance: A Training-Free Mechanism for Business-Process Decisions under Changing Costs"></audio>
         </div>
         <div class="paper-item mb-3">
-            <div class="small text-muted">15:25–15:55 &middot; <span class="badge bg-primary">Full</span></div>
+            <div class="small text-muted">15:25–15:55 &middot; <span class="badge bg-primary">Full</span> <span class="badge bg-info text-dark">Online</span></div>
             <div class="paper-title fw-bold">Towards Trustworthy AI-Enabled Emergency Medical Dispatch: Uncertainty-Aware Ambulance Travel Time Estimation</div>
             <div class="paper-authors text-muted">Muhammad Adil Abid, Johan Holmgren, Fabian Lorig and Jesper Petersson</div>
             <audio class="paper-teaser" controls preload="none" src="/assets/audio/teasers/9513.mp3" aria-label="Audio teaser: Towards Trustworthy AI-Enabled Emergency Medical Dispatch: Uncertainty-Aware Ambulance Travel Time Estimation"></audio>
