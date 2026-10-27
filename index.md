@@ -39,6 +39,221 @@ links:
 
     <hr class="my-4">
 
+    <h3 class="text-center mb-3">Conference Snapshots</h3>
+
+    <style>
+        .snapshots-viewport {
+            overflow: hidden;
+        }
+
+        .snapshots-track {
+            display: flex;
+        }
+
+        .snapshots-page {
+            display: flex;
+            gap: 1rem;
+            flex-shrink: 0;
+        }
+
+        .snapshots-page > div {
+            flex: 0 0 calc((100% - 2rem) / 3);
+        }
+
+        .snapshots-page img {
+            width: 100%;
+            aspect-ratio: 16 / 9;
+            object-fit: cover;
+            cursor: pointer;
+        }
+
+        #snapshotLightbox {
+            display: none;
+            position: fixed;
+            inset: 0;
+            z-index: 1050;
+            background: rgba(0, 0, 0, 0.9);
+            align-items: center;
+            justify-content: center;
+        }
+
+        #snapshotLightbox.open {
+            display: flex;
+        }
+
+        #snapshotLightbox img {
+            max-width: 90vw;
+            max-height: 85vh;
+            object-fit: contain;
+        }
+
+        #snapshotLightboxClose {
+            position: absolute;
+            top: 16px;
+            right: 24px;
+            color: #fff;
+            font-size: 2.5rem;
+            line-height: 1;
+            background: none;
+            border: 0;
+            cursor: pointer;
+        }
+
+        #snapshotLightbox .snapshot-nav {
+            position: absolute;
+            top: 50%;
+            transform: translateY(-50%);
+            color: #fff;
+            background: rgba(0, 0, 0, 0.5);
+            border: 0;
+            font-size: 2rem;
+            line-height: 1;
+            padding: 0.25rem 0.75rem;
+            cursor: pointer;
+            border-radius: 0.25rem;
+        }
+
+        #snapshotLightbox .snapshot-nav-prev {
+            left: 16px;
+        }
+
+        #snapshotLightbox .snapshot-nav-next {
+            right: 16px;
+        }
+    </style>
+
+    <div class="snapshots-viewport mb-2">
+        <div class="snapshots-track" id="snapshotsTrack">
+            <div class="snapshots-page">
+                <div><img src="/assets/images/snapshots/20261027_092159.jpg" alt="ICSOB 2026 conference snapshot" class="rounded"></div>
+                <div><img src="/assets/images/snapshots/20261027_092204.jpg" alt="ICSOB 2026 conference snapshot" class="rounded"></div>
+                <div><img src="/assets/images/snapshots/20261027_094611.jpg" alt="ICSOB 2026 conference snapshot" class="rounded"></div>
+            </div>
+            <div class="snapshots-page">
+                <div><img src="/assets/images/snapshots/20261027_094615.jpg" alt="ICSOB 2026 conference snapshot" class="rounded"></div>
+                <div><img src="/assets/images/snapshots/20261027_094620.jpg" alt="ICSOB 2026 conference snapshot" class="rounded"></div>
+            </div>
+        </div>
+    </div>
+
+    <div id="snapshotLightbox">
+        <button type="button" id="snapshotLightboxClose" aria-label="Close">&times;</button>
+        <button type="button" class="snapshot-nav snapshot-nav-prev" id="snapshotLightboxPrev" aria-label="Previous">&lsaquo;</button>
+        <img id="snapshotLightboxImg" src="" alt="">
+        <button type="button" class="snapshot-nav snapshot-nav-next" id="snapshotLightboxNext" aria-label="Next">&rsaquo;</button>
+    </div>
+
+    <script>
+        (function () {
+            var track = document.getElementById('snapshotsTrack');
+            var imgs = Array.prototype.slice.call(track.querySelectorAll('img'));
+
+            // Fisher-Yates shuffle, then reassign shuffled src/alt across the slots
+            var sources = imgs.map(function (img) { return { src: img.src, alt: img.alt }; });
+            for (var i = sources.length - 1; i > 0; i--) {
+                var j = Math.floor(Math.random() * (i + 1));
+                var tmp = sources[i];
+                sources[i] = sources[j];
+                sources[j] = tmp;
+            }
+            imgs.forEach(function (img, i) {
+                img.src = sources[i].src;
+                img.alt = sources[i].alt;
+            });
+
+            // Lightbox: click any snapshot to open it full-size, with its own
+            // prev/next navigation independent of the auto-sliding track.
+            // Plain CSS + vanilla JS — no Bootstrap modal / jQuery dependency.
+            var lightbox = document.getElementById('snapshotLightbox');
+            var lightboxImg = document.getElementById('snapshotLightboxImg');
+            var lightboxIndex = 0;
+
+            function showLightboxImage(i) {
+                lightboxIndex = (i + imgs.length) % imgs.length;
+                lightboxImg.src = imgs[lightboxIndex].src;
+                lightboxImg.alt = imgs[lightboxIndex].alt;
+            }
+
+            function openLightbox(i) {
+                showLightboxImage(i);
+                lightbox.classList.add('open');
+                document.body.style.overflow = 'hidden';
+            }
+
+            function closeLightbox() {
+                lightbox.classList.remove('open');
+                document.body.style.overflow = '';
+            }
+
+            imgs.forEach(function (img, i) {
+                img.addEventListener('click', function () {
+                    openLightbox(i);
+                });
+            });
+
+            document.getElementById('snapshotLightboxClose').addEventListener('click', closeLightbox);
+            lightbox.addEventListener('click', function (event) {
+                if (event.target === lightbox) {
+                    closeLightbox();
+                }
+            });
+            document.addEventListener('keydown', function (event) {
+                if (!lightbox.classList.contains('open')) {
+                    return;
+                }
+                if (event.key === 'Escape') {
+                    closeLightbox();
+                } else if (event.key === 'ArrowLeft') {
+                    showLightboxImage(lightboxIndex - 1);
+                } else if (event.key === 'ArrowRight') {
+                    showLightboxImage(lightboxIndex + 1);
+                }
+            });
+
+            document.getElementById('snapshotLightboxPrev').addEventListener('click', function () {
+                showLightboxImage(lightboxIndex - 1);
+            });
+            document.getElementById('snapshotLightboxNext').addEventListener('click', function () {
+                showLightboxImage(lightboxIndex + 1);
+            });
+
+            // Always slide right-to-left: duplicate the first page and append it,
+            // so after the last real page we can keep moving forward into the
+            // clone, then snap back to the start instantly (no visible jump).
+            var pages = Array.prototype.slice.call(track.children);
+            var clone = pages[0].cloneNode(true);
+            track.appendChild(clone);
+            var total = pages.length + 1;
+
+            track.style.width = (total * 100) + '%';
+            Array.prototype.forEach.call(track.children, function (page) {
+                page.style.flexBasis = (100 / total) + '%';
+            });
+            track.style.transition = 'transform 0.8s ease';
+
+            var index = 0;
+            function goToNext() {
+                index++;
+                track.style.transform = 'translateX(-' + (index * 100 / total) + '%)';
+            }
+
+            track.addEventListener('transitionend', function () {
+                if (index === total - 1) {
+                    track.style.transition = 'none';
+                    track.style.transform = 'translateX(0)';
+                    index = 0;
+                    // Force reflow so the next transition re-applies.
+                    track.offsetHeight;
+                    track.style.transition = 'transform 0.8s ease';
+                }
+            });
+
+            setInterval(goToNext, 6000);
+        })();
+    </script>
+
+    <hr class="my-4">
+
     <h3 class="mb-3">Important Dates</h3>
 
     {% include important-dates/_all.html %}
