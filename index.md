@@ -125,13 +125,24 @@ links:
     <div class="snapshots-viewport mb-2">
         <div class="snapshots-track" id="snapshotsTrack">
             <div class="snapshots-page">
-                <div><img src="/assets/images/snapshots/20261027_092159.jpg" alt="ICSOB 2026 conference snapshot" class="rounded"></div>
-                <div><img src="/assets/images/snapshots/20261027_092204.jpg" alt="ICSOB 2026 conference snapshot" class="rounded"></div>
-                <div><img src="/assets/images/snapshots/20261027_094611.jpg" alt="ICSOB 2026 conference snapshot" class="rounded"></div>
+                <div><img src="/assets/images/snapshots/snapshot_01.jpg" alt="ICSOB 2026 conference snapshot" class="rounded"></div>
+                <div><img src="/assets/images/snapshots/snapshot_02.jpg" alt="ICSOB 2026 conference snapshot" class="rounded"></div>
+                <div><img src="/assets/images/snapshots/snapshot_03.jpg" alt="ICSOB 2026 conference snapshot" class="rounded"></div>
             </div>
             <div class="snapshots-page">
-                <div><img src="/assets/images/snapshots/20261027_094615.jpg" alt="ICSOB 2026 conference snapshot" class="rounded"></div>
-                <div><img src="/assets/images/snapshots/20261027_094620.jpg" alt="ICSOB 2026 conference snapshot" class="rounded"></div>
+                <div><img src="/assets/images/snapshots/snapshot_04.jpg" alt="ICSOB 2026 conference snapshot" class="rounded"></div>
+                <div><img src="/assets/images/snapshots/snapshot_05.jpg" alt="ICSOB 2026 conference snapshot" class="rounded"></div>
+                <div><img src="/assets/images/snapshots/snapshot_06.jpg" alt="ICSOB 2026 conference snapshot" class="rounded"></div>
+            </div>
+            <div class="snapshots-page">
+                <div><img src="/assets/images/snapshots/snapshot_07.jpg" alt="ICSOB 2026 conference snapshot" class="rounded"></div>
+                <div><img src="/assets/images/snapshots/snapshot_08.jpg" alt="ICSOB 2026 conference snapshot" class="rounded"></div>
+                <div><img src="/assets/images/snapshots/snapshot_09.jpg" alt="ICSOB 2026 conference snapshot" class="rounded"></div>
+            </div>
+            <div class="snapshots-page">
+                <div><img src="/assets/images/snapshots/snapshot_10.jpg" alt="ICSOB 2026 conference snapshot" class="rounded"></div>
+                <div><img src="/assets/images/snapshots/snapshot_11.jpg" alt="ICSOB 2026 conference snapshot" class="rounded"></div>
+                <div><img src="/assets/images/snapshots/snapshot_01.jpg" alt="ICSOB 2026 conference snapshot" class="rounded"></div>
             </div>
         </div>
     </div>
