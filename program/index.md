@@ -105,6 +105,7 @@ description: "Program rundown for ICSOB 2026, the 17th International Conference 
     <div class="row g-4 mb-4">
         <div class="col-md-6">
             <h5 class="h6 text-muted">Room <a href="https://www.chalmerskonferens.se/motas-uppleva/lindholmen-conference-centre/pascal/" target="_blank">Pascal</a> • Digital Sovereignty, Identity and Governance</h5>
+            <p class="small text-muted mb-2">Session Chair: Oleksandr Adamov</p>
         <div class="paper-item mb-3">
             <div class="small text-muted">10:15–10:45 &middot; <span class="badge bg-primary">Full</span></div>
             <div class="paper-title fw-bold">Digital Sovereignty and European Companies: Awareness, Technological Dependence, and Governance Gaps</div>
@@ -132,6 +133,7 @@ description: "Program rundown for ICSOB 2026, the 17th International Conference 
         </div>
         <div class="col-md-6">
             <h5 class="h6 text-muted">Room <a href="https://www.chalmerskonferens.se/en/meet-experience/lindholmen-conference-centre/tesla/" target="_blank">Tesla</a>  •  AI-Native Product Management, Operations and Ideation</h5>
+            <p class="small text-muted mb-2">Session Chair: Slinger Jansen</p>
         <div class="paper-item mb-3">
             <div class="small text-muted">10:15–10:45 &middot; <span class="badge bg-primary">Full</span></div>
             <div class="paper-title fw-bold">Beyond Code Generation: Organizational Conditions for Sustainable AI Use in Software Development</div>
@@ -163,6 +165,7 @@ description: "Program rundown for ICSOB 2026, the 17th International Conference 
     <div class="row g-4 mb-4">
         <div class="col-md-6">
             <h5 class="h6 text-muted">Room <a href="https://www.chalmerskonferens.se/motas-uppleva/lindholmen-conference-centre/pascal/" target="_blank">Pascal</a>  •  Platforms and Software Ecosystems</h5>
+            <p class="small text-muted mb-2">Session Chair: Iraklis Symeonidis</p>
         <div class="paper-item mb-3">
             <div class="small text-muted">12:55–13:25 &middot; <span class="badge bg-primary">Full</span></div>
             <div class="paper-title fw-bold">Towards Actionable Typification of Platform Ecosystems</div>
@@ -184,6 +187,7 @@ description: "Program rundown for ICSOB 2026, the 17th International Conference 
         </div>
         <div class="col-md-6">
             <h5 class="h6 text-muted">Room <a href="https://www.chalmerskonferens.se/en/meet-experience/lindholmen-conference-centre/tesla/" target="_blank">Tesla</a>  •  AI-Enabled Software Work and Cross-Organizational Coordination</h5>
+            <p class="small text-muted mb-2">Session Chair: Mateus Costa</p>
         <div class="paper-item mb-3">
             <div class="small text-muted">12:55–13:25 &middot; <span class="badge bg-primary">Full</span></div>
             <div class="paper-title fw-bold">When Decision Context Does Not Travel with the Artifact: A Framework for Microdecision Governance in Agentic Software Work</div>
@@ -209,6 +213,7 @@ description: "Program rundown for ICSOB 2026, the 17th International Conference 
     <div class="row g-4 mb-4">
         <div class="col-md-6">
             <h5 class="h6 text-muted">Room <a href="https://www.chalmerskonferens.se/motas-uppleva/lindholmen-conference-centre/pascal/" target="_blank">Pascal</a>  •  AI-Enabled Procurement and Public-Sector Digitalization</h5>
+            <p class="small text-muted mb-2">Session Chair: Sergio Rico</p>
         <div class="paper-item mb-3">
             <div class="small text-muted">14:55–15:25 &middot; <span class="badge bg-primary">Full</span></div>
             <div class="paper-title fw-bold">TenderIntell: Designing and Evaluating Multi-Agent Support for Tendering</div>
@@ -230,6 +235,7 @@ description: "Program rundown for ICSOB 2026, the 17th International Conference 
         </div>
         <div class="col-md-6">
             <h5 class="h6 text-muted">Room <a href="https://www.chalmerskonferens.se/en/meet-experience/lindholmen-conference-centre/tesla/" target="_blank">Tesla</a>  •  Operational Decisions and Secure Systems</h5>
+            <p class="small text-muted mb-2">Session Chair: Eko Budiardjo</p>
         <div class="paper-item mb-3">
             <div class="small text-muted">14:55–15:25 &middot; <span class="badge bg-primary">Full</span></div>
             <div class="paper-title fw-bold">Adaptive Routing as Operational Insurance: A Training-Free Mechanism for Business-Process Decisions under Changing Costs</div>
@@ -266,6 +272,7 @@ description: "Program rundown for ICSOB 2026, the 17th International Conference 
     </div>
     <p><strong>10:00–10:30</strong> — Coffee break, posters and demos — Room Pascal</p>
     <h4 class="h5 mt-4">Best Paper Session — Preliminary Nominees</h4>
+    <p class="small text-muted mb-2">Session Chair: Krzysztof Wnuk</p>
         <div class="paper-item mb-3">
             <div class="small text-muted">10:30–11:00 &middot; <span class="badge bg-primary">Full</span></div>
             <div class="paper-title fw-bold">Towards a framework on success dimensions in public IS acquisition</div>
@@ -296,6 +303,7 @@ description: "Program rundown for ICSOB 2026, the 17th International Conference 
     <div class="row g-4 mb-4">
         <div class="col-md-6">
             <h5 class="h6 text-muted">Room <a href="https://www.chalmerskonferens.se/motas-uppleva/lindholmen-conference-centre/pascal/" target="_blank">Pascal</a>  •  Civic Tech, Data and Learning</h5>
+            <p class="small text-muted mb-2">Session Chair: Ella Peltonen</p>
         <div class="paper-item mb-3">
             <div class="small text-muted">13:30–14:00 &middot; <span class="badge bg-primary">Full</span></div>
             <div class="paper-title fw-bold">Grassroots Civic Tech Software Development and Sustainability: The Role of Generative AI</div>
@@ -317,6 +325,7 @@ description: "Program rundown for ICSOB 2026, the 17th International Conference 
         </div>
         <div class="col-md-6">
             <h5 class="h6 text-muted">Room <a href="https://www.chalmerskonferens.se/en/meet-experience/lindholmen-conference-centre/tesla/" target="_blank">Tesla</a>  •  Responsible AI Governance, Explanations and Ethics</h5>
+            <p class="small text-muted mb-2">Session Chair: Tero Päivärinta</p>
         <div class="paper-item mb-3">
             <div class="small text-muted">13:30–14:00 &middot; <span class="badge bg-primary">Full</span></div>
             <div class="paper-title fw-bold">Governance-by-Design for Responsible AI: An Industrial Case Study of Ethical Requirements Traceability</div>
