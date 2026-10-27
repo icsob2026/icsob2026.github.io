@@ -17,4 +17,26 @@ description: "Sponsors of ICSOB 2026 — the 17th International Conference on So
         </div>
     </div>
 
+    <div style="display: flex; align-items: start;" class="mt-4">
+        <img src="/assets/images/chalmers_logo.svg" alt="Chalmers University of Technology" width="200" style="margin-right: 20px;">
+        <div>
+            <p><b>Chalmers University of Technology</b> is a Swedish university located in Gothenburg, conducting research and education in technology, natural sciences, and architecture. As a co-host institution for ICSOB 2026, Chalmers supports the conference through its Lindholmen campus, including the Jupiter Building venue for the PhD Retreat.</p>
+
+            <p><a href="https://www.chalmers.se/" target="_blank">https://www.chalmers.se/</a></p>
+        </div>
+    </div>
+
+    <div style="display: flex; align-items: start;" class="mt-4">
+        <img src="/assets/images/software_center_sweden_logo.png" alt="Software Center Sweden" width="200" style="margin-right: 20px;">
+        <div>
+            <p><b>Software Center Sweden</b> is a collaboration between Swedish industry and academia advancing software-intensive product development through applied research, bringing together companies and universities to accelerate digitalization and software excellence.</p>
+
+            <p><a href="https://www.linkedin.com/company/software-center-sweden/?originalSubdomain=se" target="_blank">Software Center Sweden on LinkedIn</a></p>
+        </div>
+    </div>
+
+    <ul class="mt-4">
+        <li><a href="https://craik.ai/" target="_blank">Craik.ai</a></li>
+    </ul>
+
 </div>
