@@ -17,4 +17,21 @@ description: "Sponsors of ICSOB 2026 — the 17th International Conference on So
         </div>
     </div>
 
+
+    <div style="display: flex; align-items: start;" class="mt-4">
+        <img src="/assets/images/software_center_sweden_logo.png" alt="Software Center Sweden" width="200" style="margin-right: 20px;">
+        <div>
+            <p><b>Software Center Sweden</b> is a collaboration between Swedish industry and academia advancing software-intensive product development through applied research, bringing together companies and universities to accelerate digitalization and software excellence.</p>
+
+            <p><a href="https://www.linkedin.com/company/software-center-sweden/?originalSubdomain=se" target="_blank">Software Center Sweden on LinkedIn</a></p>
+        </div>
+    </div>
+
+    <div style="display: flex; align-items: start;" class="mt-4">
+        <img src="/assets/images/craik_ai_logo.svg" alt="Craik.ai" width="200" style="margin-right: 20px;">
+        <div>
+            <p><a href="https://craik.ai/" target="_blank">https://craik.ai/</a></p>
+        </div>
+    </div>
+
 </div>
