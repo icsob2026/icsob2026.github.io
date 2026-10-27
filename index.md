@@ -39,6 +39,79 @@ links:
 
     <hr class="my-4">
 
+    <h3 class="text-center mb-3">Conference Snapshots</h3>
+
+    <style>
+        .snapshots-viewport {
+            overflow: hidden;
+        }
+
+        .snapshots-track {
+            display: flex;
+            width: 200%;
+            transition: transform 0.8s ease;
+        }
+
+        .snapshots-page {
+            flex: 0 0 50%;
+            display: flex;
+            gap: 1rem;
+        }
+
+        .snapshots-page > div {
+            flex: 1 1 0;
+        }
+
+        .snapshots-page img {
+            width: 100%;
+            aspect-ratio: 4 / 3;
+            object-fit: cover;
+        }
+    </style>
+
+    <div class="snapshots-viewport mb-2">
+        <div class="snapshots-track" id="snapshotsTrack">
+            <div class="snapshots-page">
+                <div><img src="/assets/images/gallery_placeholder_1.jpg" alt="Conference snapshot placeholder 1" class="rounded"></div>
+                <div><img src="/assets/images/gallery_placeholder_2.jpg" alt="Conference snapshot placeholder 2" class="rounded"></div>
+                <div><img src="/assets/images/gallery_placeholder_3.jpg" alt="Conference snapshot placeholder 3" class="rounded"></div>
+            </div>
+            <div class="snapshots-page">
+                <div><img src="/assets/images/gallery_placeholder_4.jpg" alt="Conference snapshot placeholder 4" class="rounded"></div>
+                <div><img src="/assets/images/gallery_placeholder_5.jpg" alt="Conference snapshot placeholder 5" class="rounded"></div>
+                <div><img src="/assets/images/gallery_placeholder_6.jpg" alt="Conference snapshot placeholder 6" class="rounded"></div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        (function () {
+            var track = document.getElementById('snapshotsTrack');
+            var imgs = Array.prototype.slice.call(track.querySelectorAll('img'));
+
+            // Fisher-Yates shuffle, then reassign shuffled src/alt across the slots
+            var sources = imgs.map(function (img) { return { src: img.src, alt: img.alt }; });
+            for (var i = sources.length - 1; i > 0; i--) {
+                var j = Math.floor(Math.random() * (i + 1));
+                var tmp = sources[i];
+                sources[i] = sources[j];
+                sources[j] = tmp;
+            }
+            imgs.forEach(function (img, i) {
+                img.src = sources[i].src;
+                img.alt = sources[i].alt;
+            });
+
+            var shifted = false;
+            setInterval(function () {
+                shifted = !shifted;
+                track.style.transform = shifted ? 'translateX(-50%)' : 'translateX(0)';
+            }, 3000);
+        })();
+    </script>
+
+    <hr class="my-4">
+
     <h3 class="mb-3">Important Dates</h3>
 
     {% include important-dates/_all.html %}
