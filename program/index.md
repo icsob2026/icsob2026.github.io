@@ -33,6 +33,16 @@ description: "Program rundown for ICSOB 2026, the 17th International Conference 
             height: 36px;
             margin-top: 0.4rem;
         }
+
+        .badge-gold {
+            color: #fff;
+            background: #d4af37;
+        }
+
+        .badge-silver {
+            color: #fff;
+            background: #b8b8b8;
+        }
     </style>
 
     <h3 class="h4 mt-5 mb-3">Monday, 26 October 2026</h3>
@@ -274,25 +284,25 @@ description: "Program rundown for ICSOB 2026, the 17th International Conference 
     <h4 class="h5 mt-4">Best Paper Session — Preliminary Nominees</h4>
     <p class="small text-muted mb-2">Session Chair: Krzysztof Wnuk</p>
         <div class="paper-item mb-3">
-            <div class="small text-muted">10:30–11:00 &middot; <span class="badge bg-primary">Full</span></div>
+            <div class="small text-muted">10:30–11:00 &middot; <span class="badge bg-primary">Full</span> <span class="badge badge-silver">Best paper (runner up)</span></div>
             <div class="paper-title fw-bold">Towards a framework on success dimensions in public IS acquisition</div>
             <div class="paper-authors text-muted">Sanni Marjanen</div>
             <audio class="paper-teaser" controls preload="none" src="/assets/audio/teasers/7144.mp3" aria-label="Audio teaser: Towards a framework on success dimensions in public IS acquisition"></audio>
         </div>
         <div class="paper-item mb-3">
-            <div class="small text-muted">11:00–11:30 &middot; <span class="badge bg-primary">Full</span></div>
+            <div class="small text-muted">11:00–11:30 &middot; <span class="badge bg-primary">Full</span> <span class="badge badge-gold">Best paper</span></div>
             <div class="paper-title fw-bold">Digital Sovereignty under Pressure in Consumer Ecosystems</div>
             <div class="paper-authors text-muted">Quirin Trimborn and Paul van Vulpen</div>
             <audio class="paper-teaser" controls preload="none" src="/assets/audio/teasers/3138.mp3" aria-label="Audio teaser: Digital Sovereignty under Pressure in Consumer Ecosystems"></audio>
         </div>
         <div class="paper-item mb-3">
-            <div class="small text-muted">11:30–11:50 &middot; <span class="badge bg-secondary">Short</span></div>
+            <div class="small text-muted">11:30–11:50 &middot; <span class="badge bg-secondary">Short</span> <span class="badge badge-gold">Best short paper</span></div>
             <div class="paper-title fw-bold">Position: Human-in-the-Loop Is Not Accountability</div>
             <div class="paper-authors text-muted">Mohit Nayak, Asutosh Hota and Priyanka Mishra</div>
             <audio class="paper-teaser" controls preload="none" src="/assets/audio/teasers/6751.mp3" aria-label="Audio teaser: Position: Human-in-the-Loop Is Not Accountability"></audio>
         </div>
         <div class="paper-item mb-3">
-            <div class="small text-muted">11:50–12:10 &middot; <span class="badge bg-secondary">Short</span></div>
+            <div class="small text-muted">11:50–12:10 &middot; <span class="badge bg-secondary">Short</span> <span class="badge badge-silver">Best short paper (runner up)</span></div>
             <div class="paper-title fw-bold">The Criticality Gap in AI-Native Software Businesses: A Position on Moral Self-Efficacy and AI Governance</div>
             <div class="paper-authors text-muted">Ismail Zahoor and Annika Wolff</div>
             <audio class="paper-teaser" controls preload="none" src="/assets/audio/teasers/0590.mp3" aria-label="Audio teaser: The Criticality Gap in AI-Native Software Businesses: A Position on Moral Self-Efficacy and AI Governance"></audio>
