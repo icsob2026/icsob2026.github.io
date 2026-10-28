@@ -267,7 +267,7 @@ description: "Program rundown for ICSOB 2026, the 17th International Conference 
         </div>
     </div>
 
-    <h4 class="h5 mt-4">Conference Dinner</h4>
+    <h4 class="h5 mt-4">Conference Dinner and Awards</h4>
     <p><strong>17:00</strong> — Travel from Lindholmen to World of Volvo via <a href="https://www.vasttrafik.se/en/travel-planning/Timetables/line/9011014501200000/" target="_blank">Tram 12</a> (Lindholmen to Almedal)</p>
     <p><strong>17:00</strong> — World of Volvo Exhibition, free entry for conference attendees</p>
     <p><strong>18:00</strong> — Dinner at <a href="https://www.worldofvolvo.com/en/meetings/" target="_blank">World of Volvo</a> (<a href="https://maps.app.goo.gl/MBhTYjx9pGqy4eCW7" target="_blank">View on Google Maps</a>)</p>
@@ -281,7 +281,7 @@ description: "Program rundown for ICSOB 2026, the 17th International Conference 
         <p class="text-muted small ms-3"><strong>Abstract.</strong> Agentic AI offers new possibilities for developing large software systems. However, software-developing agents are not bound by the same laws as human software engineers because of their inherent nature. The resulting software has structure, but not the structure we are used to. In this talk, I will show how software systems designed and developed by autonomous agents differ from those developed by human software engineers. We discuss design-level intelligence and what it means for software engineers and product managers.</p>
     </div>
     <p><strong>10:00–10:30</strong> — Coffee break, posters and demos — Room Pascal</p>
-    <h4 class="h5 mt-4">Best Paper Session — Preliminary Nominees</h4>
+    <h4 class="h5 mt-4">Best Paper Session</h4>
     <p class="small text-muted mb-2">Session Chair: Krzysztof Wnuk</p>
         <div class="paper-item mb-3">
             <div class="small text-muted">10:30–11:00 &middot; <span class="badge bg-primary">Full</span> <span class="badge badge-silver">Best paper (runner up)</span></div>
@@ -357,5 +357,5 @@ description: "Program rundown for ICSOB 2026, the 17th International Conference 
         </div>
     </div>
     <p><strong>15:30–15:45</strong> — Coffee break</p>
-    <p><strong>15:45–16:15</strong> — Awards, next edition and closing — Room Pascal</p>
+    <p><strong>15:45–16:15</strong> — Closing — Room Pascal</p>
 </div>
